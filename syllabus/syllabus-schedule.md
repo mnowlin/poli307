@@ -69,7 +69,6 @@ __Subject to Change__. All changes will be announced in-class, through email, an
 	* **Keohane and Olmstead**. 2016. “Principles of Market-Based Environmental Policy” from _Markets and the Environment_. 
 
 * **MID-TERM: WED MARCH 1** 
-	* Will be available on [OAKS](https://lms.cofc.edu)
 
 \week \textbf{SPRING BREAK MARCH 6-10}
 
@@ -83,7 +82,7 @@ __Subject to Change__. All changes will be announced in-class, through email, an
 
 * _Readings_:
 	* [EPA: Summary of the Clean Air Act](https://www.epa.gov/laws-regulations/summary-clean-air-act) 
-	* **ST**: Chapter 5, _Air Pollution_  
+	* Schmalensee, Richard, and Robert N. Stavins. 2019. “Policy Evolution under the Clean Air Act.” *Journal of Economic Perspectives* 33(4): 27–50.  
 
 \week \textbf{Water Pollution and the \textit{Clean Water Act}}
 
@@ -109,16 +108,18 @@ __Subject to Change__. All changes will be announced in-class, through email, an
 
 * _Readings_:
 	* **ST**: Chapter 12, _The National Environmental Policy Act_ 
+	* Mortimer, Colin. 2022. [Manchin’s permitting reform effort is dead. Biden’s climate agenda could be a casualty](https://www.vox.com/policy-and-politics/2022/12/12/23500140/permitting-reform-inflation-reduction-act-congress-manchin). _Vox_ 
 
 \week \textbf{Climate Change}
 
 * _Readings_:
 	* **Andrews**: Chapter 15, _Energy Policy and Climate Change_
-
+	* **SKIM**: House Select Committee on the Climate Crisis. 2022. *Solving the Climate Crisis 2022: Key Accomplishments and Additional Opportunities*. Washington, D.C.: US House of Representatives.
+	
 * _Assignments_: 
 	* Environmental policy brief **policy brief** due Wednesday April 26
 
 ---
 
-\noindent __FINAL EXAM DATE IS MONDAY MAY 1__
+\noindent __FINAL EXAM DATE IS MONDAY MAY 1 FROM 3:30 TO 5:30__ 
 

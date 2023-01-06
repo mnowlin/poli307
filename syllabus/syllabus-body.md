@@ -56,7 +56,7 @@ There are no prerequisites for this course.
 
 ## Attendance Policy 
 
-Attendance will not be taken; however, a lack of attendance will result in missed quiz questions. Additionally, lecture slides will _not_ be made available outside of class. 
+Attendance will not be taken; however, a lack of attendance will result in missed quiz questions and points. Additionally, lecture slides will _not_ be made available outside of class. 
 
 ## Technology Policy
 
@@ -95,10 +95,12 @@ All due dates for assignments are on the following _Course Schedule_ and will al
 \noindent _Quiz Questions_: There will be 1 to 2 quiz questions given during each class period and the questions will be answered using Poll Everywhere on your phone. **You must be present in class to be able to answer the questions**. These questions will cover material from the readings and/or class discussion. Each question will be worth 5 points and can not be made up if you miss class. However, **I will add up to 25 points to your quiz questions grade at the end of the course.** 
 
 \vspace{0.1in}
-\noindent _Mid-term_: The mid-term exam will be given on **Wednesday March 1** and will be __taken on OAKS__. All material from the readings, lectures, and in-class discussions are fair game for the mid-term exam. The exam will be short answer and short essay. 
+\noindent _Mid-term_: The mid-term exam will be given on **Wednesday March 1 and will be taken in class during the regular class period**. All material from the readings, lectures, and in-class discussions are fair game for the mid-term exam. The exam will be short answer and short essay.  
 
 \vspace{0.1in}
-\noindent _Final Exam_: __The final exam period is Monday May 1 from 3:30pm to 5:30pm__ and it will be __taken on OAKS__. The final will NOT be comprehensive and all material from the readings, lectures, and in-class discussions _since the mid-term_ are fair game. The exam will be short answer and short essay.
+\noindent _Final Exam_: **The final exam period is Monday May 1 from 3:30pm to 5:30pm and it will be taken in class**. The final will NOT be comprehensive and all material from the readings, lectures, and in-class discussions _since the mid-term_ are fair game. The exam will be short answer and short essay.
+
+#### Make-up exams are only allowed in cases of emergencies. Note, travel plans are not emergencies. 
 
 ### Environmental Policy Brief
 
