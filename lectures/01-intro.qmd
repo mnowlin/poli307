@@ -1,0 +1,218 @@
+---
+title: "Course Introduction"
+subtitle: "POLI 307: Environmental Policy"
+date: "Spring 2023"
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscript-Files/csl/american-political-science-association.csl
+format:
+  pptx:
+    reference-doc: template.pptx
+    slide-level: 2
+---
+  
+# How _do_ we mangage natural resources in the US?
+
+# How _should_ we mangage natural resources in the US?
+
+# Why are environmental issues controversial? Why don't we agree? 
+
+
+## 
+
+![](img/poll.jpg)
+
+::: {.notes}
+image from national geographic: https://www.nationalgeographic.com/environment/2018/09/news-air-quality-brain-cognitive-function/ 
+
+externatlity
+:::
+ 
+## Externality
+
+:::::::::::::: {.columns}
+::: {.column}
+* **Externalities** occur when the total costs and benefits are not captured by the price 
+  * _Negative externalities_: costs spread from buyers and sellers to society as a whole
+:::
+::: {.column}
+![](img/external.jpg)
+:::
+::::::::::::::
+
+
+
+## 
+
+![](img/cows.jpg)
+
+
+# What is the _Tragedy of the Commons_? 
+
+## 
+
+![](img/commons.jpg)
+
+## Tragedy of the Commons 
+
+:::::::::::::: {.columns}
+::: {.column}
+**A resource open to all may be over consumed** 
+  * Common-pool goods are _non-excludable_ and _rivalrous_ 
+
+:::
+::: {.column}
+![](img/goods.jpg)
+:::
+::::::::::::::
+
+## 
+
+![](img/dishes.jpeg)
+
+## Hypothetical Group Work Question 
+
+* You are assigned to do a group project for a class. Everyone in the group will receive the same grade _regardless of their individual effort_ 
+
+* Does everyone in the group do the same level of work? 
+
+# What do each of the scenarios have in common? 
+
+::: {.notes}
+they are collective-action problems 
+:::
+
+## Collective-Action Problems 
+
+::: {.incremental}
+* **Situations that arise when the goals of the individual conflict with those of the group**
+
+* **How do we address collective-action problems**?
+  * Institutions   
+:::
+
+## Institutions
+
+::: {.incremental}
+* **Institutions are the humanly devised constraints that structure political, economic, and social interaction**
+
+* **Institutions consist of both informal constraints (sanctions, taboos, customs, traditions, and codes of conduct), and formal rules (constitutions, laws, property rights)** 
+
+* **Institutions can address some collective action problems, but can cause or exacerbate others**  
+:::
+
+## Institutions
+
+::: {.incremental}
+* **Markets**
+  * Decentralized collection of buyers and sellers 
+  * Can arise from _informal constraints_ 
+
+* **Governments** 
+  * Produce and enforce _formal rules_ 
+  * Make _public policy_ 
+:::
+
+## Environmental Policy 
+
+::: {.incremental}
+* **Environmental Policy**: government action related to the natural environment
+
+* **Environmental Policymaking**: a complex process that involves multiple actors across multiple decision-making venues 
+
+* **Environmental policy is about making tough choices** 
+  * Often these choices involve governments assigning (sometimes unintentionally) _costs_ and _benefits_ to individuals, groups, firms, and communities 
+
+* **Environmental Politics** 
+  * Politics is about who gets what, where, and when
+  * Distributive conflicts arise around the distribution of the costs and benefits of environmental policy 
+  * _Environmental justice_ 
+:::
+
+## Environmental Dilemmas 
+
+::: {.incremental}
+* Clean or dirty air? 
+  * Air pollution has decreased since the 1970s, but what about climate change? 
+
+* Is the water really drinkable? 
+  * Nonpoint source water pollution 
+
+* Plants and animals 
+  * Trade-offs associated with habitat and species protection 
+
+* Waste
+  * Who wants a landfill next door? 
+:::
+
+# Science and Environmental Policy
+
+::: {.notes}
+_To what extent should science be involved in the environmental policymaking process_? (DSW)
+
+--
+
+_How and in what ways do lawmakers respond to scientists who alert them to real and potential environmental problems_? (DSW)
+:::
+
+## Science and Environmental Policy
+
+**Science is increasingly polarized** 
+
+:::::::::::::: {.columns}
+::: {.column}
+![](img/anti-mask.jpeg)
+:::
+::: {.column}
+![](img/pro-mask.jpeg)
+:::
+::::::::::::::
+
+
+::: {.notes}
+science and facts vs values
+science is a specific way of knowing about the world
+:::
+ 
+## The Political System 
+
+:::::::::::::: {.columns}
+::: {.column}
+**Separate branches sharing power** 
+
+**Checks and balances**
+
+**Authority is diffused across branches and the states** 
+:::
+::: {.column}
+![](img/ins.jpg)
+:::
+::::::::::::::
+
+## Values 
+
+**Environmental policy conflicts are often conflicts about _values_** 
+
+::: {.incremental}
+* **Core Values**: 
+  * Cultural Worldviews
+  * Political Beliefs (ideology and partisanship) 
+
+* **Environmental Values**:
+  * Preservation and Conservation 
+  * Environmentalism and Development
+:::
+
+
+## Next Week 
+
+**Environmental Values and Value Conflicts** 
+
+* Readings (on [OAKS](https://lms.cofc.edu)) 
+  * Nowlin, Chap 4 
+
+**Be ready to try out _Poll Everywhere_**
+
+
+
+
+

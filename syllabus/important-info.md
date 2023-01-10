@@ -14,7 +14,7 @@ As members of the College of Charleston community, we affirm, embrace and hold o
 
 If in-person classes are suspended, faculty will announce to their students a detailed plan for a change in modality to ensure the continuity of learning. All students must have access to a computer equipped with a web camera, microphone, and Internet access. Resources are available to provide students with these essential tools.
 
-## Diversity and Inclusion in the classroom 
+## Diversity and Inclusion in the Classroom 
 
 I am committed to creating an inclusive and accessible classroom environment for all students. I view the diversity that students bring to this class as a resource, strength, and benefit. It is my intent to present materials and activities that are respectful of diversity: gender, sexuality, disability, generational status, socioeconomic status, ethnicity, race, religious background, and immigration status. Any suggestions for promoting a positive and open environment will be appreciated and given serious consideration. 
 

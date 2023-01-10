@@ -1,6 +1,6 @@
 # Course Schedule
 
-__Subject to Change__. All changes will be announced in-class, through email, and on the [OAKS](https://lms.cofc.edu/d2l/home) course page. 
+__Subject to Change__. All changes will be announced in class, through email, and on the [OAKS](https://lms.cofc.edu/d2l/home) course page. 
 
 ## Readings
 
@@ -37,7 +37,7 @@ __Subject to Change__. All changes will be announced in-class, through email, an
 * _Readings_:
 	* **RP**: Chapter 2, _The Development and Context of American Environmental Policy_
 
-\week \textbf{Environmental Policymaking I: Process} 
+\week \textbf{Environmental Policymaking: Process} 
 
 * _Readings_:
 	 * **RP**: Chapter 3, _The Messy Process of Making Environmental Policy_
@@ -45,25 +45,25 @@ __Subject to Change__. All changes will be announced in-class, through email, an
 * _Assignments_: 
 	* Environmental policy brief **topic** due Wednesday Feb 1
 
-\week \textbf{Environmental Policymaking II: Institutions and Official Actors}
+\week \textbf{Environmental Policymaking: Institutions and Official Actors}
 
 * _Readings_:
 	* **RP**: Chapter 4, _Official Actors in the Policy Process_
 
-\week \textbf{Environmental Policymaking III: Unofficial Actors}
+\week \textbf{Environmental Policymaking: Unofficial Actors}
 
 * _Readings_:
 	* **RP**: Chapter 5, _Unofficial Actors in the Policy Process_
 
-\week \textbf{Environmental Rulemaking}
+\week \textbf{Environmental Policymaking: Rulemaking}
 
 * _Readings_:
 	* **RP**: Chapter 6, _Translating Vague Statutes into Rules and Regulations_
 
 * _Assignments_: 
-	* Environmental policy brief **annotated bibliography** due Wednesday Feb 22
+	* Environmental policy brief **annotated bibliography** due Wednesday, Feb 22
 
-\week \textbf{Market-Based Environmental Policy}
+\week \textbf{Environmental Policymaking: Market-Based Environmental Policy}
 
 * _Readings_:
 	* **Keohane and Olmstead**. 2016. “Principles of Market-Based Environmental Policy” from _Markets and the Environment_. 
@@ -91,7 +91,7 @@ __Subject to Change__. All changes will be announced in-class, through email, an
 	* **ST**: Chapter 7, _Water Pollution_ 
 
 * _Assignments_: 
-	* Environmental policy brief **fact sheet** due Wednesday March 29
+	* Environmental policy brief **fact sheet** due Wednesday, March 29
 
 \week \textbf{Public Trust, Wetlands, and Waters of the United States}
 
@@ -117,7 +117,7 @@ __Subject to Change__. All changes will be announced in-class, through email, an
 	* **SKIM**: House Select Committee on the Climate Crisis. 2022. *Solving the Climate Crisis 2022: Key Accomplishments and Additional Opportunities*. Washington, D.C.: US House of Representatives.
 	
 * _Assignments_: 
-	* Environmental policy brief **policy brief** due Wednesday April 26
+	* Environmental policy brief **policy brief** due Wednesday, April 26
 
 ---
 

@@ -1,0 +1,156 @@
+---
+title: "Syllabus Overview"
+subtitle: "POLI 307: Environmental Policy"
+date: "Spring 2023"
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscript-Files/csl/american-political-science-association.csl
+format:
+  pptx:
+    reference-doc: template.pptx
+    slide-level: 2
+---
+  
+## Your Professor 
+
+:::::::::::::: {.columns}
+::: {.column}
+![](img/me.png)
+:::
+::: {.column}
+- Dr. Matthew C. Nowlin, PhD  
+
+- Email: [nowlinmc@cofc.edu](mailto:nowlinmc@cofc.edu)
+
+- Office Hours: By appointment. Email me!  
+
+- Environmental policy and politics 
+
+- Interim MPA director 
+:::
+::::::::::::::
+
+## The Syllabus 
+
+* **It's on OAKS (lms.cofc.edu)** 
+
+* **Content -> Syllabus** 
+
+* **Follow the schedule** 
+
+* **Check OAKS** 
+
+
+## What is this course about? 
+
+**The course will provide an overview of the development of environmental policy issues and environmental politics in the US.** 
+
+::: {.incremental}
+* Provide a theoretical base for understanding environmental politics and policymaking including the process of making environmental policy; the official and unofficial actors and institutions involved; environmental rulemaking; and market-based approaches. 
+
+* Examine several environmental issues and key policy approaches to address them including air pollution, water pollution, public lands, wetlands, and climate change. 
+:::
+
+## Learning Objectives
+
+* Develop an understanding of the evolution of environmental policy and politics in the U.S.
+
+* Develop an understanding of the major policymaking institutions including the Congress, the President, Executive Agencies, the Courts, and their role in environmental policymaking.
+
+* Develop an understanding of the process of policymaking in the U.S. with regard to environmental issues.
+
+* Develop in-depth knowledge about several topics within the broad field of environmental policy.
+
+## Course Information 
+
+::: {.incremental}
+* **Readings**
+  * All required readings will be posted on [OAKS](https://lms.cofc.edu) 
+  * In general, read half of the readings for Mondays and the other half for Wednesdays  
+  * We will have in-class quiz questions over the readings
+
+* **Poll Everywhere** 
+  * You will need a device to be able to answer _Poll Everywhere_ questions in class
+:::
+
+## Course Information 
+
+::: {.incremental}
+* **OAKS** 
+  * We will make extensive use of OAKS 
+
+* **Attendance Policy** 
+  * Attendance is not taken, _but you must be in class to get credit for the quiz questions and lecture slides will **not** be posted on OAKS_  
+
+* **Technology Policy** 
+  * _Laptops are not allowed in class_ 
+  * Phones are only to be used for quiz questions 
+
+* **Late Work Policy** 
+  * 10% deduction each 24-hr period it late, up to 72 hours
+  * _Only applicable to environmental policy brief assignments_ 
+:::
+
+## Assignments
+
+**Assignments and Points (750 points possible)**
+
+::: {.incremental}
+* Quiz Questions: 200 points total
+  * Given in class and worth 5 points each 
+  * Up to 25 points given at the end of the semester
+
+* **Exams**
+  * Mid-Term Exam: 100 points. **IN CLASS, Wed March 1**
+  * Final Exam: 100 points. **NOT comprehensive, IN CLASS Mon May 1, 3:30pm-5:30pm**
+  * **NO MAKE-UP EXAMS. Plan accordingly**  
+:::
+
+
+## Assignments
+
+**Policy Brief: 350 points total**
+
+You will pick an environmental problem and complete a series of assignments concerning that issue. Complete instructions on are [OAKS](https://lms.cofc.edu). 
+
+* **Topic Selection: Due Feb 1 (25 points)**
+* **Annotated Bibliography: Due Feb 22 (100 points)**
+* **Fact Sheet: Due March 29 (100 points)** 
+* **Policy Brief: Due April 26 (125 points)** 
+
+## Important Information 
+
+**Make note of:** 
+
+* Accommodations for Students with Disabilities
+* Inclement Weather, Pandemic or Substantial Interruption of Instruction
+* Diversity and Inclusion in the Classroom
+* Mental & Physical Wellbeing
+* Food & Housing Resources
+* Religious Accommodation for Students
+
+
+## Quick Overview of Topics 
+
+:::::::::::::: {.columns}
+::: {.column}
+* Environmental Values and Value Conflict
+* Evolution of Environmental Policy in the United States
+* Environmental Policymaking: 
+  * Process
+  * Official Actors 
+  * Unofficial Actors
+  * Rulemaking 
+  * Market-Based Approaches
+:::
+::: {.column}
+* Federalism and Environmental Regulations
+* Air Pollution and the _Clean Air Act_ 
+* Water Pollution and the _Clean Water Act_ 
+* Public Trust, Wetlands, and Waters of the United States
+* Public Lands and Endangered Species
+* The National Environmental Policy Act
+* Climate Change
+:::
+::::::::::::::
+
+

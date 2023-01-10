@@ -10,7 +10,7 @@ From the CofC catalog:
 <!-- Additionally, this course is a __sustainability-focused__ course associated with the college-wide focus on sustainability. For more information see here: [sustain.cofc.edu][3].  -->
 
 \vspace{0.1in}
-\noindent The course will provide an overview of the development of environmental policy issues and environmental politics in the US. The first part of the course will provide an introduction to environmental policy and politics in the US and will provide a theoretical base for understanding environmental policy change and development; examine the fundamental beliefs and attitudes that have shaped environmental policies; and the major political institutions in the U.S. that conceive, design, implement, and revise environmental policies. The second part of the course will examine environmental policy design including regulation and market-based approaches. Finally, we will examine several environmental issues including air pollution, water polluation, land management, and climate change.  
+\noindent The course will provide an overview of the development of environmental policy issues and environmental politics in the US. The first part of the course will provide an introduction to environmental politics and policymaking in the US and will provide a theoretical base for understanding environmental policy change and development; examine the fundamental beliefs and attitudes that have shaped environmental policies; the major political institutions in the U.S. that conceive, design, implement, and revise environmental policies; the important actors outside of government that influence environmental policy; the rule-making process, and market-based approaches. In the second part of the course, we will examine several environmental issues and policies to address them including air pollution, water pollution, land management, and climate change.  
 
 # Course Goals and Learning Objectives
 
@@ -64,7 +64,7 @@ Attendance will not be taken; however, a lack of attendance will result in misse
 
 ## Late Work Policy
 
-_Note this is only applicable to the policy brief assignments_. Late work is accepted; however, it will be penalized 10% each day (24 hr period) it is late, up to 3 days. After 3 days the assignment will not be accepted. For example, if an assignment is due Wednesday at 2:00 PM, it is late as of 2:01 PM and you lose 10%. After Thursday at 2:01 PM you lose another 10%, after Friday at 2:01 PM another 10%, and no work will be accepted after Saturday at 2:00 PM. _No late work will accepted 72 hrs after the assignment due date and time_.
+_Note this is only applicable to the policy brief assignments_. Late work is accepted; however, it will be penalized 10% each day (24 hr period) it is late, up to 3 days. After 3 days the assignment will not be accepted. For example, if an assignment is due Wednesday at 2:00 PM, it is late as of 2:01 PM and you lose 10%. After Thursday at 2:01 PM you lose another 10%, after Friday at 2:01 PM another 10%, and no work will be accepted after Saturday at 2:00 PM. _No late work will be accepted 72 hrs after the assignment due date and time_.
 
 # Course Requirements and Grading
 
@@ -95,10 +95,10 @@ All due dates for assignments are on the following _Course Schedule_ and will al
 \noindent _Quiz Questions_: There will be 1 to 2 quiz questions given during each class period and the questions will be answered using Poll Everywhere on your phone. **You must be present in class to be able to answer the questions**. These questions will cover material from the readings and/or class discussion. Each question will be worth 5 points and can not be made up if you miss class. However, **I will add up to 25 points to your quiz questions grade at the end of the course.** 
 
 \vspace{0.1in}
-\noindent _Mid-term_: The mid-term exam will be given on **Wednesday March 1 and will be taken in class during the regular class period**. All material from the readings, lectures, and in-class discussions are fair game for the mid-term exam. The exam will be short answer and short essay.  
+\noindent _Mid-term_: The mid-term exam will be given on **Wednesday, March 1, and will be taken in class during the regular class period**. All material from the readings, lectures, and in-class discussions is fair game for the mid-term exam. The exam will be short answer and short essay.  
 
 \vspace{0.1in}
-\noindent _Final Exam_: **The final exam period is Monday May 1 from 3:30pm to 5:30pm and it will be taken in class**. The final will NOT be comprehensive and all material from the readings, lectures, and in-class discussions _since the mid-term_ are fair game. The exam will be short answer and short essay.
+\noindent _Final Exam_: **The final exam period is Monday, May 1 from 3:30pm to 5:30pm and it will be taken in class**. The final will NOT be comprehensive and all material from the readings, lectures, and in-class discussions _since the mid-term_ is fair game. The exam will be short answer and short essay.
 
 #### Make-up exams are only allowed in cases of emergencies. Note, travel plans are not emergencies. 
 
