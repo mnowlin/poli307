@@ -1,0 +1,290 @@
+---
+title: "Value Systems and Environmental Policy"
+subtitle: "POLI 307: Environmental Policy"
+date: "Spring 2023"
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscript-Files/csl/american-political-science-association.csl
+format:
+  pptx:
+    reference-doc: template.pptx
+    slide-level: 2
+---
+  
+## Environmental Policy 
+
+::: {.incremental}
+* **Environmental Policy**: government action related to the natural environment [@rinfretUSEnvironmentalPolicy2019,2]
+
+* **Environmental Policymaking**: a complex process that involves multiple actors across multiple decision-making venues 
+:::
+
+# Why are environmental policy issues controversial? Why don't we agree? 
+
+## Environmental Issues 
+
+::: {.incremental}
+* The difficulty of collective action 
+
+* Distributional conflicts over _costs_ and _benefits_ 
+
+* The structure of the political and policymaking system 
+
+* Science 
+  * Politicization of science 
+  * _Scientific uncertainty_ 
+
+* **Values and value disputes** 
+:::
+
+## Values 
+
+### Determine ideas about what is morally right and wrong, and are typically resistant to change
+
+
+## Values
+
+::: {.incremental}
+* Abstract concepts and beliefs
+
+* Pertain to desirable end states or behaviors
+
+* Transcend specific situations
+
+* Guide selection or evaluation of behavior and events
+
+* Ordered by relative importance
+:::
+
+## Value System
+
+### Value systems are hierarchically structured
+
+![](img/valuesFig2.png)
+
+## Value System
+
+![](img/valuesFig2.png)
+
+::: {.incremental}
+* **Core values**: 
+  * Foundational values that span multiple policy domains 
+  * _Political ideology_, _cultural worldviews_
+:::
+
+## Value System
+
+![](img/valuesFig2.png)
+ 
+::: {.incremental}
+* **Environmental values**:
+  * The appropriate relationship between humanity and nature
+  * _Environmentalism_
+:::    
+
+## Value System
+
+![](img/valuesFig2.png)
+ 
+::: {.incremental}
+* **Policy attitudes**:
+  * Evaluations about particular policy issues
+  * _Climate change poses a significant risk_ 
+:::
+
+## Core Values: Political Ideology
+
+::: {.incremental}
+* **Ideas about the role of government in society** 
+  * Liberal vs. Conservative
+
+* **Stability vs change** 
+
+* **Disagreement about the size, scope, and nature of government** 
+  * Size: taxing and spending 
+  * Scope: public vs. private concerns 
+  * Nature: collective decision-making vs. imposed rules 
+:::
+
+## Spending on the Environment 
+
+![](img/figure4.2.jpg)
+
+## Core Values: Political Ideology
+
+::: {.incremental}
+* **The environment as a political issue has become increasing polarized across ideological beliefs** 
+
+* **Solution aversion**
+  * If government regulation is the _solution_ then there isn't a _problem_
+
+* **Elite driven**
+  * Elected officials 
+  * Energy and industry groups 
+:::
+
+## Environmental Values 
+
+::: {.incremental}
+* **Early environmental values: _Preservation_ and _Conservation_**
+  * **Preservationist**: Preserve and protect nature for its own sake
+  * **Conservation**: Prudent use of natural resources
+
+* **Contemporary conservation**: contains strands of traditional preservationist and conservation ideas
+
+* **Deep Ecology**: humans are merely a part of the larger ecosystem, which should be protected without the consideration of harm to humans
+:::
+
+
+## Environmental Values: Environmentalists vs Development
+
+### New Ecological Paradigm scale
+
+:::::::::::::: {.columns}
+::: {.column}
+* The balance of nature is very delicate and easily upset
+* Humans live on a planet with very limited room and resources
+* Humans are seriously abusing the environment
+:::
+::: {.column}
+* _Humans will eventually learn enough about how nature works to be able to control it_ 
+* _The so-called ‘ecological crisis’ facing humankind has been greatly exaggerated_ 
+* _The Earth has plenty of natural resources if we just learn how to develop them_
+:::
+::::::::::::::
+
+
+## Environmental Values: Environmentalists vs Development
+
+### Cornucopians
+
+:::::::::::::: {.columns}
+::: {.column}
+* Emphasis on economic growth and markets 
+* Environmental restrictions limit economic well-being
+* High confidence in technological solutions
+* Individual liberty: 
+  * Environmentalists are "watermelons"
+:::
+::: {.column}
+![](img/cornucopia.jpg)
+:::
+::::::::::::::
+
+# Why Watermelons?
+
+## 
+
+![](img/watermelon.jpg)
+
+## 
+
+![](img/commie.jpg)
+
+
+## 
+
+
+
+# Cultural Theory 
+
+## Cultural Theory
+
+### Cultural theory is a core value
+
+::: {.incremental}
+* **Values based on cultural bias, social relations, and ways of life**
+  * Cultural bias: _Shared values and beliefs_
+  * Social relations: _Patterns of interpersonal relations_  
+  * Ways of life: _Viable combinations of social relations and cultural bias_
+
+:::
+
+## Cultural Theory 
+
+::: {.incremental}
+* **Ways of life (or cultural types or cultural worldviews) are captured by two cross cutting dimensions; grid and group** 
+  * **Grid**: _Degree that an individual's life is limited by externally imposed prescriptions; social regulation_
+  * **Group**: _Degree that an individual is incorporated into bounded units_     
+  
+* **Combining the grid and group dimensions produce four viable ways of life, or cultural types**
+:::
+
+## Cultural Theory 
+
+:::::::::::::: {.columns}
+::: {.column}
+![](img/figure4.3.jpg)
+:::
+::: {.column}
+**Hierarchical**: Tight groups with clearly defined roles 
+
+**Egalitarian**: Group commitments and no social stratification
+
+**Individualist**: Free competition among individuals and few group constraints
+
+**Fatalist**: Little or no group attachments, yet choices are constrained by external forces 
+:::
+::::::::::::::
+
+
+## 
+
+![](img/ct.jpg)
+
+
+## Cultural Cognition 
+
+:::::::::::::: {.columns}
+::: {.column}
+* **Values and beliefs guide how people _think_ about policy issues** 
+
+* Environmental policy debates are not about science as much as they are _about opposing cultural values and worldviews through which that science is seen_ 
+:::
+::: {.column}
+![](img/cc.png)
+:::
+::::::::::::::
+
+# Does increased knowledge reduce the polarization of views about climate change? 
+
+## 
+
+![](img/figure4.4.jpg)
+## 
+
+![](img/hamilton.png)
+
+##
+
+![](img/cct.png)
+
+# What? Why? How? 
+
+## Mechanisms of Cultural Cognition
+
+::: {.incremental}
+* **Cultural identity-protective cognition** 
+  * Policy attitudes do not threaten an individual's _identity_ 
+  * Values are connected to identity 
+
+* **Culturally biased assimilation of information** 
+  * Information is processed in a way that confirms values and prior beliefs 
+  * _The "smarter" you are the better you are at aligning information with your values_ 
+:::
+
+
+## Mechanisms of Cultural Cognition
+
+::: {.incremental}
+* **Cultural availability** 
+  * Events or information that matches beliefs more readily come to mind 
+
+* **Cultural credibility**
+  * Sources that match beliefs are more credible 
+
+* **Cultural-identity affirmation** 
+:::
+
+## References 
+
+
