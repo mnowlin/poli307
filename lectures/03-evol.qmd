@@ -1,0 +1,463 @@
+---
+title: "Evolution of Environmental Policy"
+subtitle: "POLI 307: Environmental Policy"
+date: "Spring 2023"
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscript-Files/csl/american-political-science-association.csl
+format:
+  pptx:
+    reference-doc: template.pptx
+    slide-level: 2
+---
+  
+```{r setup, include=FALSE, message=FALSE}
+knitr::opts_knit$set(root.dir = normalizePath(".."))
+```
+
+## Environmental Controversy 
+
+* The difficulty of collective action 
+
+* Distributional conflicts over _costs_ and _benefits_ 
+
+* The structure of the political and policymaking system 
+
+* Science 
+  * Politicization of science 
+  * _Scientific uncertainty_ 
+
+* Values and value disputes
+
+## Environmental Policy
+
+### Four analytical frameworks [@salzmanEnvironmentalLawPolicy2014]
+
+::: {.incremental}
+* Environmental rights
+  * _Humans have a right to environmental protection_ 
+
+* Sustainable development 
+  * _Balance between economic development and environmental protection_ 
+
+* Utilitarianism and Cost-Benefit Analysis 
+  * _Greatest good for the greatest number_ 
+  * _The cost of environmental protection should not exceed the benefits to society_ 
+:::
+
+::: {.notes}
+use of these frameworks is informed by values
+:::
+
+## Environmental Policy
+
+### Four analytical frameworks 
+
+::: {.incremental}
+* Environmental justice
+  * _Principle that all people and communities are entitled to equal protection of environmental and public health laws and regulations_ [@mohaiEnvironmentalJustice2009]
+  * **Substantive**: How the burdens of environmental harms are distributed 
+  * **Procedural**: Process by which environmental decisions are made 
+
+* __Environmental racism__: _Refers to any policy, practice, or directive that differentially affects or disadvantages (whether intended or unintended) individuals, groups, or communities based on race or color_ [@mohaiEnvironmentalJustice2009]
+:::
+
+## Environmental Policy Eras 
+
+:::::::::::::: {.columns}
+::: {.column}
+* Development era 
+* Conservation era 
+* Environmentalism era
+* Reform era 
+* Stagnation and polarization
+:::
+::: {.column}
+![](img/relationship.jpg)
+:::
+::::::::::::::
+
+# Development Era: 1800-1890
+
+## Development Era: 1800-1890
+
+::: {.incremental}
+* Economic growth and westward expansion
+
+* Overlap with the _Industrial Revolution_ (1760-1840)
+  * Mechanization and mass production 
+
+* **Urbanization**: movement from farms to cities created separation from nature
+  * Sanitation and the _germ theory of disease_  
+
+* Little government regulation
+
+* **Preservationist** thinking
+:::
+
+## Preservationist
+
+:::::::::::::: {.columns}
+::: {.column}
+_We need the tonic of wildness...At the same time that we are earnest to explore and learn all things, we require that all things be mysterious and unexplorable, that land and sea be indefinitely wild, unsurveyed and unfathomed by us because unfathomable. We can never have enough of nature_
+
+-- Henry David Thoreau, _Walden_, 1854 
+:::
+::: {.column}
+![](img/thoreau.jpeg)
+:::
+::::::::::::::
+
+## Preservationist
+
+:::::::::::::: {.columns}
+::: {.column}
+_Man everywhere is a disturbing agent. Wherever he plants his foot, the harmonies of nature are turned to discords_ 
+
+-- George Perkins Marsh, _Man and Nature_, 1864
+:::
+::: {.column}
+![](img/marsh.jpg)
+:::
+::::::::::::::
+
+## Preservationist
+
+:::::::::::::: {.columns}
+::: {.column}
+_In every walk with nature one receives far more than he seeks_
+
+-- John Muir
+
+**Father of the National Parks** 
+
+**Founded the Sierra Club in 1892**
+
+\* **But, he was pretty racist** 
+:::
+::: {.column}
+![](img/muir.jpg)
+:::
+::::::::::::::
+
+## Development Era: 1800-1890
+
+::: {.incremental}
+* **General Survey Act** (1824)
+  * Authorized the president to have surveys made of routes for transport roads and canals
+
+* **Homestead Act** (1862)
+  * Permitted people to receive 160 acres of public lands if they lived on it and worked the land
+
+* **General Mining Act** (1872)
+  * Allows mining claims on public property
+
+* **Yellowstone National Park Protection Act** (1872)
+  * First national park 
+
+:::
+
+## 
+
+quiz question
+
+# Conservation Era: 1890-1962
+
+## Conservation Era: 1890-1962
+
+::: {.incremental}
+* **Progressive Era: 1890-1920**
+  * Stronger role for government 
+
+* **Conservation**:
+  * _Limit excesses and encourage both businesses and individuals to use the nation's vast natural resources more carefully through government regulation_ [@klineFirstRiverBrief2011, 61]
+:::
+
+## Conservation Era: 1890-1962
+
+:::::::::::::: {.columns}
+::: {.column}
+_Wise forest protection does not mean the withdrawal of forest resources, whether of wood, water, or grass, from contributing their full share to the welfare of the people, but, on the contrary, gives the assurance of larger and more certain supplies. The fundamental idea of forestry is the perpetuation of forests by use. Forest protection is not an end of itself; it is a means to increase and sustain the resources of our country and the industries which depend on them_
+:::
+::: {.column}
+![](img/teddy.jpeg)
+:::
+::::::::::::::
+
+
+## Conservation
+
+:::::::::::::: {.columns}
+::: {.column}
+_Conservation means the wise use of the earth and its resources for the lasting good of men_
+
+-- Gifford Pinchot
+
+\* **But, he was also pretty racist** 
+
+:::
+::: {.column}
+![](img/pinchot.jpg)
+:::
+::::::::::::::
+
+## Conservation 
+
+### Three Major Tenets
+
+::: {.incremental}
+* Conservation is not the locking up of resources; it is their development and wise use
+
+* Conservation is the greatest good, for the greatest number, for the longest time
+
+* The federal pubic lands belong to all the people
+:::
+
+## Conservation Era: 1890-1962
+
+* 1902: Bureau of Reclamation: water resource management 
+* 1905: Forest Service
+* 1908: Grand Canyon national monument
+* 1916: National Park Service
+* 1933: Tennessee Valley Authority
+* 1934: Taylor Grazing Act, _limit overgrazing_
+* 1931-1936: Construction of Hoover Dam
+* 1940: U.S. Fish and Wildlife Service
+* 1946: Bureau of Land Management
+
+# Environmentalism Era: 1962-1980
+
+## Environmentalism Era: 1962-1980
+
+::: {.incremental}
+* **The Great Broadening** 
+  * Increase in government and policy in more areas of society 
+
+* **Ecology**  
+  * Nature is a system based on interdependence and stability
+:::
+
+::: {.notes}
+deep ecology: an environmental movement and philosophy which regards human life as just one of many equal components of a global ecosystem.
+
+:::
+
+## Rachel Carson 
+
+:::::::::::::: {.columns}
+::: {.column}
+_I contend, furthermore, that we have allowed these chemicals to be used with little or no advance investigation of their effect on soil, water, wildlife, and man himself. Future generations are unlikely to condone our lack of prudent concern for the integrity of the natural world that supports all life_
+
+-- Rachel Carson, _Silent Spring_, 1962
+:::
+::: {.column}
+![](img/carson.jpg)
+:::
+::::::::::::::
+
+## Rachel Carson 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ykPH56Udc60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Focusing Events 
+
+:::::::::::::: {.columns}
+::: {.column}
+![](img/oilspill.jpg)
+:::
+::: {.column}
+![](img/river.jpg)
+:::
+::::::::::::::
+
+
+## Earthrise 
+
+![](img/earth.jpg)
+
+## Earth Day 
+
+![](img/nytearthday.png)
+
+## The Environmental Movement
+
+::: {.incremental}
+* Social movement
+    * Rise of environmental movement organizations 
+
+* Large-scale change through law and the "nationalization" of environmental legislation 
+
+* Expansion of "rights" 
+    * _Clean air, clean water, open spaces --- these should be the birthright for every American_ (President Nixon)
+:::
+
+## Environmental Legislation 1962-1980
+
+* 1969: National Environmental Policy Act
+* 1970: Creation of the _Environmental Protection Agency_
+* 1970: Clean Air Act Amendments
+* 1972: The Water Pollution Control Act (The Clean Water Act)
+* 1973: Endangered Species Act
+* 1976: Resource Conservation and Recovery Act
+* 1976: Toxic Substances Control Act
+* 1980: Comprehensive Environmental Response Act
+    * Established a "Superfund" for cleaning up old toxic and hazardous waste sites 
+
+## Backlash 
+
+:::::::::::::: {.columns}
+::: {.column}
+**Sagebrush Rebellion**: Western states wanted more state and local control of federally owned land for grazing, off-road vehicle use, and other uses
+:::
+::: {.column}
+![](img/fedLand.png)
+:::
+::::::::::::::
+
+
+## 
+
+quiz q 
+
+# Reform Era: 1980-2000
+
+## Reform Era: 1980-2000
+
+::: {.incremental}
+* Energy crisis and stagflation
+
+* Debate over the role of government broadly and in environmental policy specifically
+  * Disintegration of the bipartisan consensus on the environment
+
+* Reagan presidency
+  * Environmental protection at odds with economic growth 
+  * Budgetary cutbacks in environmental agencies 
+  * Regulatory reform 
+
+:::
+
+## Stagnation and Polarization 
+
+::: {.incremental}
+* No major federal environmental policy legislation since the Clean Air Act Amendments of 1990 
+  * _But, 2020-2022 period_ 
+
+* Increased partisan polarization
+
+* Distrust of governments ability to solve problems 
+:::
+
+## Polarization: The Public 
+
+![](img/figure4.2.jpg)
+
+
+## Polarization: US Congress
+
+![](img/lcvS.jpg)
+
+
+## Stagnation: Environmental Protection Agency (EPA) Budget and Workforce
+```{r}
+#| message: false
+#| include: false
+
+epaData <- read.csv("lectures/data/epa.csv")
+
+pdf("lectures/img/epaBudget.pdf", height=5,width=10)
+par(mar=c(3,5,1,1)) 
+plot(epaData$fy, epaData$budgetReal/1000, ylim=c(1,21),type="l", lwd=5, xaxt="n", main="", ylab="Budget (in billions)", xlab="", cex.lab=1.5)
+axis(1,1970:2022, cex=1)
+legend("topright", c("Inflation Adjusted Budget"),lty=1,lwd=2,bty="n",text.font=1.5,cex=1.25)
+dev.off()
+
+summary(epaData$workers)
+pdf("lectures/img/epaWorkers.pdf", height=5,width=10)
+par(mar=c(3,5,1,1)) 
+plot(epaData$fy, epaData$workers/1000, ylim=c(4,19),type="l", lwd=5, xaxt="n", main="", ylab="Workforce (in thousands)", xlab="", cex.lab=1.5)
+axis(1,1970:2022, cex=1)
+dev.off()
+```
+
+:::::::::::::: {.columns}
+::: {.column}
+![](img/epaBudget.pdf)
+:::
+::: {.column}
+![](img/epaWorkers.pdf)
+:::
+::::::::::::::
+
+
+<!-- 
+## Earthrise: Amanda Gorman 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xwOvBv8RLmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+-->
+
+# The Tradegy of the Commons 
+
+## 
+
+![](img/commons.jpg)
+
+## Commons 
+
+::: {.incremental}
+* **Shared land not owned by individuals but "shared in common."** 
+  * Rules of use set and enforced by the users 
+
+* **A broad set of resources, natural and cultural, that are shared by many people** 
+  * Open-access: no shared property rights 
+:::
+
+
+::: {.notes}
+first definition from medieval europe
+:::
+ 
+## 
+
+:::::::::::::: {.columns}
+::: {.column}
+![](img/hardin2.png)
+
+Hardin, Garrett. 1968. “The Tragedy of the Commons.” _Science_ 162(3859): 1243–48.
+
+:::
+::: {.column}
+![](img/hardin1.jpg)
+:::
+::::::::::::::
+
+## The Tradegy of the Commons
+
+![](img/hardin3.png)
+
+::: {.incremental}
+* **It follows that two options are available:** 
+  * 1) establish, monitor, and enforce private property rights 
+  * 2) directly regulate the use of the commons either by taxing or directly restricting (e.g., licensing) its use
+:::
+
+## Critiques of Hardin 
+
+::: {.incremental}
+* History wrong
+
+* Assumptions about human behavior
+
+* Implications of views about over population
+:::
+
+## Elinor Ostrom 
+
+:::::::::::::: {.columns}
+::: {.column}
+_The most important lesson that needs wide dissemination is that simple panaceas offered for solving problems related to the commons—whether they are for government, private, or community ownership—may work in some settings but fail in others_ 
+:::
+::: {.column}
+![](img/ostrom.jpeg)
+:::
+::::::::::::::
+
+## References
