@@ -1,0 +1,582 @@
+---
+title: "Environmental Policymaking: Institutions and Official Actors"
+subtitle: "POLI 307: Environmental Policy"
+date: "Spring 2023"
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscript-Files/csl/american-political-science-association.csl
+format:
+  pptx:
+    reference-doc: template.pptx
+    slide-level: 2
+---
+
+## Institutions 
+
+* Institutions are the humanly devised constraints that structure political, economic, and social interaction
+
+* Institutions consist of both informal constraints (sanctions, taboos, customs, traditions, and codes of conduct), and formal rules (constitutions, laws, property rights)
+
+* Markets and _Governments_ 
+
+## Governments 
+
+* **Environmental Policy**: Government action (policy) related to the natural environment
+
+* **Environmental policies take multiple _forms_**: Legislation, executive orders, agency rules and regulations, and court decisions 
+
+* **The Environmental Policymaking Process**
+  * Context 
+  * Stages 
+  * _Structural Factors_: Including governmental institutions 
+
+# Official Actors 
+
+## Official Actors 
+
+### A participant in the policy process whose involvement is motivated or mandated by their _official position in a government agency or office_
+
+::: {.incremental}
+* In government 
+
+* Elected officials and civil servants 
+:::
+
+## 
+
+![](img/branches.jpg)
+## 
+
+quiz q
+
+#  Congress
+
+## Separation and Sharing of Powers
+
+|  | **_Congress_** | President | Courts 
+--- | --- | --- | --- |
+**_Legislative_** | **_make laws_** | recommend laws, veto, regulations | review law  
+Executive | **_override vetos, oversight_** | enforce and implement laws | review executive acts 
+Judicial | **_advise and consent_** | pardon, nominate judges | interpret laws 
+
+
+## Congress: Legislation
+
+### How a bill becomes a law
+
+:::::::::::::: {.columns}
+::: {.column}
+* Introduced 
+* Assigned to committee 
+* Passes committee 
+* Passes full chamber 
+* Passes other chamber 
+* Signed by the president 
+:::
+::: {.column}
+![](img/bill2.jpg)
+:::
+::::::::::::::
+
+## Congress: Committees and Sub-Committees
+
+::: {.incremental}
+* Hold hearings to gather information
+
+* Bills are amended in committee, but most die in committee 
+
+* Chairs of committees are important party leaders 
+
+* Create multiple access and veto points for policy actors 
+:::
+
+
+## Congress: House Committees and Sub-Committees
+
+![](img/houseCom.png)
+
+## Congress: Senate Committees and Sub-Committees
+
+![](img/senate1.png)
+
+![](img/senate2.png)
+
+## Congress: Environmental Legislation 
+
+::: {.incremental}
+* Substantive legislation peaked during the _environmentalism era_ 
+
+* Incremental changes since the environmentalism era
+
+* **Authorizing statues**: legislation that becomes public law 
+
+* **Public law titles**: subsections of larger bills (laws)
+
+* **Appropriations**: allocation of funding to agencies     
+  * **Riders**: attachments to appropriation bills 
+
+:::
+
+## Congress: On the Congressional Agenda
+
+:::::::::::::: {.columns}
+::: {.column}
+_I would like to draw three main conclusions. Number one, the earth is warmer in 1988 than at any time in the history of instrumental measurements. Number two, the global warming is now large enough that we can ascribe with a high degree of confidence a cause and effect relationship to the greenhouse effect. And number three, our computer climate simulations indicate that the greenhouse effect is already large enough to begin to effect the probability of extreme events such as summer heat waves_ 
+
+-James Hansen, 1988 
+:::
+::: {.column}
+![](img/hansen.png)
+:::
+::::::::::::::
+
+## Congressional Hearings
+```{r}
+#| include: false
+#| message: false
+envHEAR <- read.csv("data/US-Legislative_congressional_hearings-21.4.csv")
+envHEAR <- subset(envHEAR, majortopic==7)
+envHEAR["envHearSUM"] <- 1
+envHearAgg <- aggregate(envHEAR[c("envHearSUM")], by=list(year=envHEAR$year), FUN=sum)
+
+library(ggplot2)
+```
+
+
+```{r}
+#| echo: false
+# Basic line plot with points
+ggHear <- ggplot(data=envHearAgg, aes(x=year)) +
+  geom_line(aes(y=envHearSUM), size=2) +
+  # ylim(0, 5) +
+  theme_bw() + 
+  xlab("Year") + ylab("Number of Hearings")
+
+ggHear + ggtitle("Congressional Hearings about the Environment") +
+     theme(plot.title = element_text(lineheight=.8, face="bold"))
+```
+
+## Congressional Hearings
+
+::: {.incremental}
+* Steady increase during the _environmentalism era_ 
+
+* Big spike in mid-to late 1980's
+  * Response to Reagan 
+  * Ozone layer and climate change
+
+* Decline in _legislative_ hearings and increase in _oversight_ hearings
+
+:::
+
+## Environmental Legislation: Public Laws 
+```{r}
+#| include: false
+#| message: false
+envLEG <- read.csv("data/US-Legislative-public_laws_20.1_6.csv")
+envLEG <- subset(envLEG, majortopic==7)
+envLEG["envLegSUM"] <- 1
+envLegAgg <- aggregate(envLEG[c("envLegSUM")], by=list(year=envLEG$year), FUN=sum)
+
+envTitle <- read.csv("data/US-Legislative_Public_Laws_Titles_20.2.csv")
+envTitle <- subset(envTitle, majortopic==7)
+envTitle["envTitleSUM"] <- 1
+envTitleAgg <- aggregate(envTitle[c("envTitleSUM")], by=list(year=envTitle$year), FUN=sum)
+
+```
+
+
+```{r}
+#| echo: false
+# Basic line plot with points
+ggLeg <- ggplot(data=envLegAgg, aes(x=year, y=envLegSUM)) +
+  geom_point() +
+  geom_smooth() +
+  # ylim(0, 5) +
+  theme_bw() + 
+  xlab("Year") + ylab("Number of Public Laws")
+
+ggLeg + ggtitle("Environmental Public Laws") +
+     theme(plot.title = element_text(lineheight=.8, face="bold"))
+```
+
+
+## Environmental Legislation: Public Titles
+
+```{r}
+#| echo: false
+# Basic line plot with points
+ggLeg <- ggplot(data=envTitleAgg, aes(x=year, y=envTitleSUM)) +
+  geom_point() +
+  geom_smooth() +
+  # ylim(0, 5) +
+  theme_bw() + 
+  xlab("Year") + ylab("Number of Public Law Titles")
+
+ggLeg + ggtitle("Environmental Public Law Titles") +
+     theme(plot.title = element_text(lineheight=.8, face="bold"))
+```
+
+
+## Environmental Budget Outlays 
+
+![](img/budgetPercent.jpg)
+
+
+## Polarization 
+
+![](img/lcvS.jpg)
+
+## Congressional Gridlock 
+
+::: {.incremental}
+* Polarization 
+
+* Separation of Powers 
+
+* Complexity of environmental issues
+
+* Lack of public support
+
+* Interest groups
+
+* Lack of political leadership
+:::
+
+# The President 
+
+## Separation and Sharing of Powers
+
+|  | Congress | **_President_** | Courts 
+--- | --- | --- | --- |
+Legislative | make laws | **_recommend laws, veto, regulations_** | review law  
+**_Executive_** | override vetos, oversight | **_enforce and implement laws_** | review executive acts 
+Judicial | advise and consent | **_pardon, nominate judges_** | interpret laws 
+
+## Presidential Powers 
+
+::: {.incremental}
+* **Constitutional powers** 
+  * **Execute the law** ("take care" clause)
+  * Veto legislation 
+  * Make judicial and executive branch appointments 
+
+* **Implied powers**
+  * Proposal legislation and policy priorities to Congress 
+  * The president can (try to) influence others to act (the _Bully Pulpit_)
+:::
+
+## Presidential Powers 
+
+### Direct policymaking 
+
+::: {.incremental}
+* **Executive Agreements**: Agreements made between the US and a foreign government(s)
+
+* **Executive Orders**: An official means by which the president can instruct federal agencies on how to execute laws passed by Congress
+:::
+
+
+## The Administrative Presidency
+
+:::::::::::::: {.columns}
+::: {.column}
+**Chief Executive** 
+
+* Appointments
+* Policy coordination
+* Budget process 
+* Executive branch agency and regulatory oversight
+:::
+::: {.column}
+![](img/adminPres.png)
+:::
+::::::::::::::
+
+## 
+
+quiz 
+
+## The Environmental Presidency: Executive Orders
+
+```{r}
+#| include: false
+#| message: false
+envOrd <- read.csv("data/US-Executive-executive_orders_21.2.csv")
+envOrd <- subset(envOrd, majortopic==7)
+envOrd["envOrdSUM"] <- 1
+envOrdAgg <- aggregate(envOrd[c("envOrdSUM")], by=list(year=envOrd$year), FUN=sum)
+
+# library(ggplot2)
+```
+
+
+```{r}
+#| echo: false
+# Basic line plot with points
+ggOrd <- ggplot(data=envOrdAgg, aes(x=year)) +
+  geom_line(aes(y=envOrdSUM), size=2) +
+  # ylim(0, 5) +
+  theme_bw() + 
+  xlab("Year") + ylab("Number of Executive Orders")
+
+ggOrd + ggtitle("Executive Orders about the Environment") +
+     theme(plot.title = element_text(lineheight=.8, face="bold"))
+```
+
+
+## The Environmental Presidency: Executive Orders
+
+:::::::::::::: {.columns}
+::: {.column}
+Democratic | Executive Orders 
+--- | ---  
+Johnson | 4 
+Carter | 9
+Clinton | 22 
+Obama | 15
+Biden | TBD
+:::
+::: {.column}
+Republican | Executive Orders 
+--- | --- 
+Nixon | 13
+Ford | 2
+Reagan | 3
+HW Bush | 4 
+W Bush | 8
+Trump | 6
+:::
+::::::::::::::
+
+## The Environmental Presidency: SOTU
+
+```{r}
+#| include: false
+#| message: false
+envSU <- read.csv("data/US-Exec_SOTU_2022.csv")
+envSU <- subset(envSU, majortopic==7)
+envSU["envSUSUM"] <- 1
+envSUAgg <- aggregate(envSU[c("envSUSUM")], by=list(year=envSU$year), FUN=sum)
+
+# library(ggplot2)
+```
+
+```{r}
+#| echo: false
+# Basic line plot with points
+ggSU <- ggplot(data=envSUAgg, aes(x=year)) +
+  geom_line(aes(y=envSUSUM), size=2) +
+  # ylim(0, 5) +
+  theme_bw() + 
+  xlab("Year") + ylab("Number of Mentions")
+
+ggSU + ggtitle("Mentions of the Environment in the State of the Union") +
+     theme(plot.title = element_text(lineheight=.8, face="bold"))
+```
+
+## The Environmental Presidency
+
+:::::::::::::: {.columns}
+::: {.column}
+* **Opportunistic Leaders**
+
+* **Frustrated Underachievers**
+
+* **Rollback Advocates** 
+:::
+::: {.column}
+![](img/pres.jpg)
+:::
+::::::::::::::
+
+## The Environmental Presidency
+
+:::::::::::::: {.columns}
+::: {.column}
+* **Opportunistic Leaders**
+
+* **Frustrated Underachievers**
+
+* **Rollback Advocates**
+:::
+::: {.column}
+* Nixon 
+* Ford 
+* Carter 
+* Reagan 
+* HW Bush 
+* Clinton
+* W Bush 
+* Obama 
+* Trump 
+* Biden
+:::
+::::::::::::::
+
+
+# Environmental Bureaucracy
+
+## Environmental Bureaucracy
+
+### Bureaucracy 
+
+_The complex **structure** of offices, tasks, rules, and principles of organization that are employed by all large-scale institutions to coordinate the work of their personnel_ 
+
+## Environmental Bureaucracy
+
+### Bureaucracy 
+
+::: {.incremental}
+* A mission defined by top officials
+
+* Fixed jurisdictions within the organization
+
+* Authority graded from top to bottom
+
+* Management by written documents
+
+* Management by career experts
+
+* Management by rules
+:::
+
+## Environmental Bureaucracy
+
+:::::::::::::: {.columns}
+::: {.column}
+**What agencies do**
+
+* Implement policy 
+* Interpret vague legislative language
+* Create regulations 
+:::
+::: {.column}
+![](img/agencies.png)
+:::
+::::::::::::::
+
+## Environmental Bureaucracy: Delegation and Oversight
+
+::: {.incremental}
+* **Delegation of Authority**: _Congress provides policymaking power to the executive branch (i.e., the bureaucracy or federal agencies)_ 
+
+* **Delegation and Accountability** 
+  * The People $\rightarrow$ Elected Officials $\rightarrow$ Executive Branch Agencies (Bureaucrats) 
+:::
+
+## Environmental Bureaucracy: Delegation and Oversight
+
+### Why Delegate? 
+
+::: {.incremental}
+* The bureaucracy has more expertise in these policy areas and more flexibility to make changes if necessary
+
+* "Shift the responsibility" of decision-making to the agencies
+  * Blame avoidance
+:::
+
+## Environmental Bureaucracy: Delegation and Oversight 
+
+**Elected officials use various oversight and control mechanisms to manage the bureaucracy** 
+
+::: {.incremental}
+**President**
+
+* Appointment of sympathetic agency heads
+* Regulatory review prior to final rule enactment
+* Executive orders
+* Changes in budget authority
+* Bureaucratic reorganization plans
+:::
+
+## Environmental Bureaucracy: Delegation and Oversight 
+
+**Elected officials use various oversight and control mechanisms to manage the bureaucracy** 
+
+::: {.incremental}
+**Congress**
+
+* Authorization of agency
+* Legislative language restricting discretion
+* Budgetary control
+* _Police patrol_ oversight: Active monitoring
+* _Fire alarm_ oversight: React to complaints from citizens and/or interest groups
+:::
+
+# The Courts 
+
+## Separation and Sharing of Powers
+
+|  | Congress | President | **_Courts_** 
+--- | --- | --- | --- |
+Legislative | make laws | recommend laws, veto, regulations | **_review law_**  
+Executive | override vetos, oversight | enforce and implement laws | **_review executive acts_** 
+**_Judicial_** | advise and consent | pardon, nominate judges | **_interpret laws_** 
+
+## The US Court System 
+
+:::::::::::::: {.columns}
+::: {.column}
+**Dual Court System** 
+
+* Federal and state
+* Three types of law 
+  * Public
+  * Criminal 
+  * Civil
+:::
+::: {.column}
+![](img/courts.png)
+:::
+::::::::::::::
+
+## The Courts: Judicial Review 
+
+_The power of the courts to declare actions of the legislative and executive branches invalid or unconstitutional_
+
+::: {.incremental}
+* _Marbury v. Madison_ (1803)
+
+* The courts review environmental law and policy 
+:::
+
+## The Courts and Environmental Policy 
+
+**Sources of environmental law** 
+
+::: {.incremental}
+* Statutes (Legislation)
+* Executive orders
+* Administrative rules and regulations
+* _Appellate court decisions_
+* _Previous court decisions_ 
+  * _Stare decisis_: the court tends to follow its previous decisions
+:::
+
+## The Courts and Environmental Policy
+
+**How Courts Shape Environmental Policy** 
+
+::: {.incremental}
+1) Determine __standing__: _The right to sue_
+
+* To establish standing: 
+  * _Injury-in-fact_
+  * _Causation_
+  * _Redressability_ 
+:::
+
+## The Courts and Environmental Policy
+
+**How Courts Shape Environmental Policy** 
+
+::: {.incremental}
+2) Interpret the law: determine intent  
+
+* Standard of review: how much _deference_ is given by the court
+
+* _Chevron deference_  
+  * _Chevron v NRDC_ (1984)
+  * _Ambiguous_ language, _reasonable_ interpretation, _defer_ to agencies
+:::
+
