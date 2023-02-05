@@ -1,0 +1,388 @@
+---
+title: "Environmental Policymaking: Process"
+subtitle: "POLI 307: Environmental Policy"
+date: "Spring 2023"
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscript-Files/csl/american-political-science-association.csl
+format:
+  pptx:
+    reference-doc: template.pptx
+    slide-level: 2
+---
+  
+## Collective Action Problems 
+
+### Situations that arise when the goals of the individual conflict with those of the group
+
+* **Examples** 
+  * _Externalities_ 
+  * _Common-pool goods_ 
+  * _Dirty dishes_ 
+  * _Slackers with group work_ 
+
+# How are collective-action problems addressed? 
+
+## Institutions 
+
+::: {.incremental}
+* Institutions are the humanly devised constraints that structure political, economic, and social interaction
+
+* Institutions consist of both informal constraints (sanctions, taboos, customs, traditions, and codes of conduct), and formal rules (constitutions, laws, property rights)
+
+* _Markets_ and _Governments_ 
+:::
+
+## Markets 
+
+::: {.incremental}
+* Markets are decentralized institutions that promote voluntary exchange between buyers and sellers
+
+* Market rules
+  * Medium of exchange 
+  * Way to communicate price 
+  * _Property rights_ 
+
+* Exchange provides gains from trade
+
+* Markets provide the most _efficient_ allocation of resources 
+:::
+
+## Two Households 
+
+:::::::::::::: {.columns}
+::: {.column}
+![](img/chicks.jpg)
+:::
+::: {.column}
+![](img/potatoes.jpg)
+:::
+::::::::::::::
+
+::: {.notes}
+What can go wrong? 
+:::
+
+##
+
+quiz question
+
+<!-- this didn't work here; rework market/market failure discussion-->
+
+# Market Failures
+
+## Examples of Market Failures 
+
+::: {.incremental}
+* **Externalities** 
+  * Pollution 
+
+* **Common-pool goods** 
+  * Open pasture
+
+* **Public goods** 
+  * Clean air
+
+* **Insufficient competition** 
+  * Monopolies
+
+* **Asymmetric information** 
+  * Used car
+:::
+
+
+## Types of Goods 
+
+![](img/goods.jpg)
+
+## Governments
+
+::: {.incremental}
+* **Public Policy**: 
+  * The outcomes of government processes that are aimed at alleviating a societal _problem_  
+
+* **What is the _cause_ of the "problem"?** 
+:::
+
+## Governments 
+
+::: {.incremental}
+* **Environmental Policy**: Government action (policy) related to the natural environment
+  * **Includes (among other things)**: Public lands and waters; wilderness; wildlife; pollution; ecosystem services; human health and safety; energy use; transportation; urban design and building standards; agriculture and food production; and human population growth
+
+* **Environmental policies take multiple _forms_**: Legislation, executive orders, agency rules and regulations, and court decisions 
+:::
+
+# The Environmental Policymaking Process
+
+## The Environmental Policymaking Process
+
+### Context 
+
+### Stages 
+
+### Structural Factors 
+
+## Context of Policymaking 
+
+::: {.incremental}
+* **Current Circumstances**
+  * _Focusing events_: Major events that galvanize attention on a particular issue such as a crisis or a disaster
+  * Public opinion 
+  * Other priorities  
+
+* **Economic Conditions** 
+  * Bad economy, less interest in other things 
+:::
+
+## Context of Policymaking 
+
+::: {.incremental}
+* **Politics** 
+  * Elections 
+  * Constituent/interest group support 
+  * Party support 
+
+* **Values and Culture** 
+  * What is acceptable to the public (and others) 
+:::
+
+##
+
+quiz q 
+
+## The Stages Model
+
+:::::::::::::: {.columns}
+::: {.column}
+
+1. Problem identification and definition
+2. Agenda setting
+3. Policy formulation
+4. Policy legitimation
+5. Policy implementation
+6. Policy evaluation
+:::
+::: {.column}
+![](img/cycle.jpg)
+:::
+::::::::::::::
+
+## The Stages Model 
+
+### 1. Problem identification and definition
+
+::: {.incremental}
+* Is something a _problem_ 
+
+* How is the problem _understood_ 
+
+* These are debated 
+
+* **Framing** 
+  * Give meaning and context to information
+:::
+
+
+## The Stages Model 
+
+### 2. Agenda Setting
+
+::: {.incremental}
+* _Policy agenda_: The issues currently being addressed by the policymaking system 
+* _Agenda-setting_: The process through which policy issues reach the agenda
+* **Space on the agenda is finite and competitive** 
+:::
+
+## The Stages Model 
+
+### 2. Agenda Setting
+
+**Getting on the agenda = Gaining attention** 
+
+::: {.incremental}
+* _Mobilization_: individuals and organized groups bring attention to a problem   
+
+* _Focusing events_ 
+
+* _Policy entrepreneurs_: individuals willing to invest resources into achieving a policy goal 
+
+* _Public "mood"_: how concerned is the public about the problem? 
+:::
+
+## The Stages Model 
+
+### 3. Policy Formulation
+
+::: {.incremental}
+* What should be done about a problem? 
+* Involves technical analysis and politics 
+
+* **Policy design**: The content of the policy
+  * Policy goals 
+  * Policy instruments
+  * Implementation structure  
+:::
+
+<!-- 
+# Environmental Policy Goals 
+
+--
+
+**The outcomes that policymakers want the policy to achieve** 
+
+--
+
+* For environmental policy, policy goals are typically broadly defined as some level of environmental protection, harm reduction, or improved management of a natural resource 
+
+* _A reduction in the amount of greenhouse gases being emitted into the atmosphere_  
+
+---
+
+class: title title-2
+
+# Causal Framework 
+
+**The theory that connects the policy (_p_) to the desired outcome (_Y_)** 
+
+--
+
+* $\text{Y} = \text{p} + \omega$ 
+
+* _How would a carbon tax reduce emissions_? 
+
+--
+
+* _Uncertainty_: can be reduced with more data
+
+--
+
+* _Ambiguity_: can not necessarily be reduced with more data  
+
+---
+
+class: title title-2
+
+# Policy Instruments 
+
+**The means of achieving policy goals** 
+
+* Policy instrument $\rightarrow$ Policy goal
+
+--
+
+**Four categories** 
+* Using markets: _carbon tax_  
+* Creating markets: _cap-and-trade_ 
+* Using environmental regulations: _command-and-control_  
+* Engaging the public: _provide information_ 
+
+---
+
+class: title title-2
+
+# Implementation Structure 
+
+**Implementation structures include the agencies; state and local governments; and other actors that are involved in implementing a policy**
+
+--
+
+* Who is going to carry out the policy and how are they going to do it? 
+
+---
+-->
+
+## 
+
+quiz q
+
+## The Stages Model 
+
+### 4. Policy Legitimation
+* e.g., a proposed policy becomes law 
+
+:::::::::::::: {.columns}
+::: {.column}
+![](img/bill1.png)
+:::
+::: {.column}
+![](img/bill2.jpg)
+:::
+::::::::::::::
+
+## The Stages Model 
+
+### 5. Policy Implementation
+
+**Process by which policies enacted by government are put into effect by the relevant agencies** 
+
+::: {.incremental}
+* Implementation often involves **delegation** 
+  * Agencies must define "_swimmable_" waters
+
+* Implementation often involves **policy creation**
+  * EPA makes a regulation under the authority of the Clean Air Act 
+:::
+
+## The Stages Model 
+
+### 6. Policy Evaluation
+
+**Measurement and assessment of policy and program effects, including successes and failures** 
+
+::: {.incremental}
+* Is a policy working? 
+* Causality
+* How to measure
+* Where to get data?
+:::
+
+::: {.notes}
+_Was the Kyoto Protocol successful_?
+:::
+
+# Structural Factors 
+
+## Checks and Balances
+
+| Congress | President | Courts 
+--- | --- | --- | --- 
+**Legislative** | **make laws** | recommend laws, veto, regulations | review laws  
+**Executive** | override vetos, oversight | **enforce and implement laws** | review executive acts 
+**Judicial** | advise and consent | pardon, nominate judges | **interpret laws** 
+
+## Structural Factors 
+
+::: {.incremental}
+* **Federalism** 
+  * A system of government in which there is a national level of government with various sub- national governmental units
+
+* **Fragmentation** 
+  * Policymaking authority is diffused across the branches of government, the states, and civil society 
+:::
+
+
+## Other Factors 
+
+### Governmental tendencies that result from the context, process, and structural factors of policymaking
+
+::: {.incremental}
+* **Incrementalism**: small changes made over time 
+
+* **Reactionary**: governments respond to problems rather than be proactive to prevent a problem 
+
+* **Pluralism**: competition among different groups ensures that no single group will dominate government 
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
