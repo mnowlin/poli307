@@ -479,6 +479,8 @@ _The complex **structure** of offices, tasks, rules, and principles of organizat
 
 **Elected officials use various oversight and control mechanisms to manage the bureaucracy** 
 
+## Environmental Bureaucracy: Delegation and Oversight 
+
 ::: {.incremental}
 **President**
 
@@ -490,8 +492,6 @@ _The complex **structure** of offices, tasks, rules, and principles of organizat
 :::
 
 ## Environmental Bureaucracy: Delegation and Oversight 
-
-**Elected officials use various oversight and control mechanisms to manage the bureaucracy** 
 
 ::: {.incremental}
 **Congress**
