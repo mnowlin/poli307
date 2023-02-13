@@ -1,0 +1,390 @@
+---
+title: "Environmental Policymaking: Unofficial Actors"
+subtitle: "POLI 307: Environmental Policy"
+date: "Spring 2023"
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscript-Files/csl/american-political-science-association.csl
+format:
+  pptx:
+    reference-doc: template.pptx
+    slide-level: 2
+---
+
+
+
+## Unofficial Actors 
+
+_Individuals and organizations that try to influence the actions of official actors (Congress, the president, the bureaucracy, and the courts) and the outcomes of elections_  
+
+::: {.incremental}
+* **Outside government**: unofficial actors do _not_ have constitutionally or legally created incentives or mandates to be a part of the environmental policymaking process 
+
+* **But**, they are still an important factor in environmental policymaking
+:::
+
+
+## Unofficial Actors 
+
+* Political Parties
+
+* Interest Groups 
+
+* The Public 
+
+* Media 
+
+## 
+
+quiz 
+
+# Political Parties 
+
+## Political Parties 
+
+_Groups of people with similar interests who work together to create and implement policies_
+
+::: {.incremental}
+* Parties are broad coalitions
+
+* **Three roles**:
+  * In government
+  * As organizations 
+  * In the electorate
+:::
+
+
+## 
+
+![](img/parties.png)
+
+## Political Parties 
+
+* **Polarization**: Divergent views along ideological and/or partisan lines
+  * The parties are fundamentally different
+
+## Political Parties 
+
+::: {.incremental}
+* **Democratic**: _Democratic ideology is more commonly associated with liberalism and an acceptance of government involvement in the political, economic, and social lives of people_ 
+  * _Democrats_ are a coalition of groups making demands on government 
+
+* **Republican**: _Republican ideology argues for individual liberty as opposed to government interference. Its preference for small government coincides with a pro-business, free-market attitude and thus an aversion to government control_ 
+  *  _Republicans_ are ideologically homogeneous 
+:::
+
+
+## Party Platforms
+```{r, include=FALSE, message=FALSE}
+envDem <- read.csv("data/envDemPlatform.csv")
+envDem["demSUM"] <- 1
+envDemAgg <- aggregate(envDem[c("demSUM")], by=list(year=envDem$year), FUN=sum)
+
+envRep <- read.csv("data/envRepPlatform.csv")
+envRep["RepSUM"] <- 1
+envRepAgg <- aggregate(envRep[c("RepSUM")], by=list(year=envRep$year), FUN=sum)
+
+
+df <- data.frame(merge(envDemAgg, envRepAgg, by="year"))
+
+library(ggplot2)
+```
+
+
+```{r, echo=FALSE}
+# Basic line plot with points
+ggplot(data=df, aes(x=year)) +
+  geom_line(aes(y=demSUM), color="blue", size=2) +
+  geom_line(aes(y=RepSUM), color="red", size=2) +
+  theme_bw() + 
+  xlab("Year") + ylab("Mentions of Environment")
+```
+
+## Party Platforms
+
+:::::::::::::: {.columns}
+::: {.column}
+**Democrats**
+
+1984: _The environmental legacy of Ronald Reagan will be long-lasting damage that can never truly be undone_ 
+
+2020: _We must lead the world in taking on the climate crisis, not deny the science and accelerate the damage_ 
+
+:::
+::: {.column}
+**Republicans**
+
+1980: _We strongly affirm that environmental protection must not become a cover for a "no-growth" policy and a shrinking economy_ 
+
+2016: _The Environmental Protection Agency has rewritten laws to advance the Democrats' climate change agenda_ 
+
+:::
+::::::::::::::
+
+# Interest Groups 
+
+## Interest Groups 
+
+_An organized group of individuals or organizations that makes policy-related appeals to government_ 
+
+::: {.incremental}
+* **Environmental policy**
+  * Business 
+  * Environmental groups (Public) 
+  * Labor
+
+* **"Left" (labor) and "right" (business) coalitions have been successful in blocking climate action**  
+:::
+
+## Environmental Interest Groups 
+
+:::::::::::::: {.columns}
+::: {.column}
+__Mainstream__ 
+
+* Sierra Club
+* Environmental Defense Fund
+
+__Greens__
+
+* Greenpeace 
+* Earth First! 
+:::
+::: {.column}
+__Grassroots__ 
+
+* Organized within local area 
+
+**Climate change**
+
+* Sunrise Movement 
+:::
+::::::::::::::
+
+## What Interest Groups Do
+
+### Pursue _insider_ and _outsider_ strategies
+
+::: {.incremental}
+* Insider: lobby government officials 
+
+* Outsider: support candidates, mobilize members, protests
+:::
+
+## Interest Groups: Theories 
+
+### Pluralism
+
+::: {.incremental}
+* Groups are mobilized in response to changes in society and/or the _policymaking_ environment
+
+* **Mobilization**: The process by which people or groups motivated to take action, such as through lobbying, protest, or any other form of expression in response to an issue or problem 
+:::
+
+## Interest Groups: Theories 
+
+### Mobilization and Counter-Mobilization 
+
+![](img/group.png)
+
+## Interest Groups: Theories 
+
+### Elitism
+
+:::::::::::::: {.columns}
+::: {.column}
+Policy demands flow downward from the elite not upwards from the public
+:::
+::: {.column}
+![](img/elitism.png)
+:::
+::::::::::::::
+
+
+## Interest Group Influence 
+
+### Mobilization and Spending
+
+![](img/figure7.3.jpg)
+
+## Interest Group Influence 
+
+### Former Senator James Inhofe (R-Oklahoma) 
+
+:::::::::::::: {.columns}
+::: {.column}
+![](img/inhofe.jpg)
+:::
+::: {.column}
+![](img/inhofeDon.jpg)
+:::
+::::::::::::::
+
+## Interest Group Influence 
+
+"It’s not only about the money, having money helps, but the other side will always have more and they don’t always win"
+
+-Wesley Warren, _Natural Resources Defense Council_
+
+::: {.incremental}
+* On salient and contentious issues both sides tend to be well-resourced 
+
+* Interest groups tend to support their friends and allies  
+
+* But, business interests have an advantage when issues aren't salient and they can be active in each stage of the process
+:::
+
+
+## 
+
+quiz q
+
+
+# The Public 
+
+## Public Opinion 
+
+_Broad public support in favor of environmental protection provides legitimacy for those working on its behalf_ 
+
+:::::::::::::: {.columns}
+::: {.column}
+**Public opinion provides a foundation for government action** 
+:::
+::: {.column}
+![](img/constitution.jpeg)
+:::
+::::::::::::::
+ 
+## Public Opinion 
+
+![](img/figure4.2.jpg)
+
+
+## Public Opinion 
+
+```{r, include=FALSE, message=FALSE}
+envMood <- read.csv("data/envMood.csv")
+envGallup <- read.csv("data/envGallup.csv")
+
+envMood$percent <- envMood$percent*100
+envGallup$percent <- envGallup$percent*100
+
+library(ggplot2)
+```
+
+:::::::::::::: {.columns}
+::: {.column}
+```{r, echo=FALSE}
+# Basic line plot with points
+ggMood <- ggplot(data=envMood, aes(x=year)) +
+  geom_line(aes(y=percent), size=2) +
+  ylim(50, 100) +
+  theme_bw() + 
+  xlab("Year") + ylab("Environmental Mood")
+  
+ggMood + ggtitle("Support for Environmental Action among the US Public") +
+     theme(plot.title = element_text(lineheight=.8, face="bold"))
+```
+:::
+::: {.column}
+```{r, echo=FALSE}
+# Basic line plot with points
+ggGallup <- ggplot(data=envGallup, aes(x=year)) +
+  geom_line(aes(y=percent), size=2) +
+  ylim(0, 5) +
+  theme_bw() + 
+  xlab("Year") + ylab("Percent")
+
+ggGallup + ggtitle("Environment the Most Imporant Problem among the US Public") +
+     theme(plot.title = element_text(lineheight=.8, face="bold"))
+```
+:::
+::::::::::::::
+
+## Public Opinion 
+
+### The Paradox of Public Opinion on the Environment
+
+::: {.incremental}
+* In general, support for addressing environmental problems is high among the public, **but** other issues (the economy, healthcare) tend to be more important 
+
+* Other issues crowd out the agenda, even as the public supports action on environmental issues 
+:::
+
+## Public Opinion 
+
+
+::: {.incremental}
+* **Polarization** 
+  * Following elite and party cues, the public is polarized over environmental issues 
+
+* **Thermostatic** 
+  * Like a thermostat, public support for environmental policy increases (decreases) as government action on the environment decreases (increases)
+:::
+
+# The Media 
+
+## The Media 
+
+::: {.incremental}
+* **Traditional media: Three different types**
+  * Broadcast: radio and television
+  * Print: newspapers and magazines
+  * Internet: websites of traditional sources 
+
+* **Alternative media** 
+  * Social media 
+  * Data journalism 
+  * _Activist_ or _Clickivist_? 
+:::
+
+
+
+## Media Attention to the Environment 
+```{r, include=FALSE, message=FALSE}
+envNYT <- read.csv("data/envNYT.csv")
+envNYT["envSUM"] <- 1
+envAgg <- aggregate(envNYT[c("envSUM")], by=list(year=envNYT$year), FUN=sum)
+
+
+```
+
+:::::::::::::: {.columns}
+::: {.column}
+```{r, echo=FALSE}
+# Basic line plot with points
+ggNYT <- ggplot(data=envAgg, aes(x=year)) +
+  geom_line(aes(y=envSUM), size=2) +
+  # ylim(0, 5) +
+  theme_bw() + 
+  xlab("Year") + ylab("NYT Index")
+
+ggNYT + ggtitle("Environment in the New York Times") +
+     theme(plot.title = element_text(lineheight=.8, face="bold"))
+```
+:::
+::: {.column}
+* Framing and priming
+* Complex science 
+* Media ownership
+* "Both sides"
+:::
+::::::::::::::
+
+## Policy Subsystems 
+
+**Substantive issue alliances that cross institutional boundaries and include both governmental [official] and nongovernmental [unofficial] actors** 
+
+::: {.incremental}
+* Subsystems are organized around a __policy domain__ 
+
+* **Policy domain**: Substantive area of policy over which participants in policy making compete and compromise (e.g., air pollution, land management)
+:::
+
+
+## Policy Subsystems 
+
+### Iron triangles and Issue networks
+
+![](img/subsystems.jpg)
+
+
