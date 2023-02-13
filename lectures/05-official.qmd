@@ -442,6 +442,16 @@ _The complex **structure** of offices, tasks, rules, and principles of organizat
 
 ## Environmental Bureaucracy
 
+### Why Bureaucracy?
+
+::: {.incremental}
+* Bureaucratic organization _enhances efficiency_ through division of labor and specialization
+
+* Bureaucracies _allow governments to operate_ by allowing large-scale coordination of individuals working on a task
+:::
+
+## Environmental Bureaucracy
+
 :::::::::::::: {.columns}
 ::: {.column}
 **What agencies do**
@@ -455,53 +465,55 @@ _The complex **structure** of offices, tasks, rules, and principles of organizat
 :::
 ::::::::::::::
 
-## Environmental Bureaucracy: Delegation and Oversight
+## Environmental Bureaucracy 
+
+### The Environmental Protection Agency (EPA)
+
+:::::::::::::: {.columns}
+::: {.column}
+* Initiated by President Nixon in 1970
+  * _Independent agency_
+  * Administrator appointed by President and confirmed by the Senate
+* Central agency responsible for implementing environmental policy
+* _The mission of EPA is to protect human health and the environment_ 
+:::
+::: {.column}
+![](img/epa.png)
+:::
+::::::::::::::
+
+## Environmental Bureaucracy 
+
+### The Environmental Protection Agency (EPA)
+
+:::::::::::::: {.columns}
+::: {.column}
+* Organized by _media_ and _geographic regions_
+  * Air and Radiation 
+  * Chemical Safety and Pollution Prevention
+  * Land and Emergency Management
+  * Water 
+:::
+::: {.column}
+![](img/epaOrg.png)
+:::
+::::::::::::::
+
+## Environmental Bureaucracy 
+
+### The Environmental Protection Agency (EPA)
 
 ::: {.incremental}
-* **Delegation of Authority**: _Congress provides policymaking power to the executive branch (i.e., the bureaucracy or federal agencies)_ 
-
-* **Delegation and Accountability** 
-  * The People $\rightarrow$ Elected Officials $\rightarrow$ Executive Branch Agencies (Bureaucrats) 
+* **What the EPA Does** 
+  * Develop and enforce regulations
+  * Give grants
+  * Study environmental issues
+  * Public information 
 :::
 
-## Environmental Bureaucracy: Delegation and Oversight
+## Environmental Bureaucracy: EPA Budget
 
-### Why Delegate? 
-
-::: {.incremental}
-* The bureaucracy has more expertise in these policy areas and more flexibility to make changes if necessary
-
-* "Shift the responsibility" of decision-making to the agencies
-  * Blame avoidance
-:::
-
-## Environmental Bureaucracy: Delegation and Oversight 
-
-**Elected officials use various oversight and control mechanisms to manage the bureaucracy** 
-
-## Environmental Bureaucracy: Delegation and Oversight 
-
-::: {.incremental}
-**President**
-
-* Appointment of sympathetic agency heads
-* Regulatory review prior to final rule enactment
-* Executive orders
-* Changes in budget authority
-* Bureaucratic reorganization plans
-:::
-
-## Environmental Bureaucracy: Delegation and Oversight 
-
-::: {.incremental}
-**Congress**
-
-* Authorization of agency
-* Legislative language restricting discretion
-* Budgetary control
-* _Police patrol_ oversight: Active monitoring
-* _Fire alarm_ oversight: React to complaints from citizens and/or interest groups
-:::
+![](img/epaBudget.pdf)
 
 # The Courts 
 
