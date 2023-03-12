@@ -1,0 +1,232 @@
+---
+title: "Environmental Policymaking: Rulemaking"
+subtitle: "POLI 307: Environmental Policy"
+date: "Spring 2023"
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscript-Files/csl/american-political-science-association.csl
+format:
+  pptx:
+    reference-doc: template.pptx
+    slide-level: 2
+---
+
+## Environmental Policy 
+
+::: {.incremental}
+* **Environmental Regulations**: Command-and-control
+  * _Environmentalism era_ 
+
+* Market-based approaches 
+  * _Reform era_ 
+
+* _Industrial policy_
+  * Policies designed to encourage and support growth on some sectors of the economy, typically manufactoring 
+
+:::
+
+# Environmental Regulations 
+
+## Environmental Regulations 
+
+::: {.incremental}
+* **Regulation**: _Specific standards or instructions concerning what individuals, businesses, and other organizations can or cannot do_ 
+
+* Command-and-control 
+  * _Command_: set standards 
+  * _Control_: enforcement of standards
+:::
+
+## Environmental Regulations
+
+::: {.incremental}
+* **A _form_ of environmental policy made by executive branch agencies** 
+  * Most consequential form of executive branch policymaking
+  * The _Take Care Clause_ 
+
+* **Regulations are made through the _rulemaking_ process** 
+:::
+
+## Environmental Regulations 
+
+::: {.incremental}
+**Rulemaking**: _The agency process of translating congressional legislation into specific, actionable rules_ 
+  * Rules must have statutory authority 
+
+* **Rulemaking authority** 
+  * Is delegated to the executive branch agencies
+:::
+
+## Environmental Regulations: Delegation and Oversight
+
+::: {.incremental}
+* **Delegation of Authority**: _Congress provides policymaking power to the executive branch (i.e., the bureaucracy or federal agencies)_ 
+
+* **Delegation and Accountability** 
+  * The People $\rightarrow$ Elected Officials $\rightarrow$ Executive Branch Agencies (Bureaucrats) 
+:::
+
+## Environmental Regulations: Delegation and Oversight
+
+### Why Delegate? 
+
+::: {.incremental}
+* The bureaucracy has more expertise in these policy areas and more flexibility to make changes if necessary
+
+* "Shift the responsibility" of decision-making to the agencies
+  * Blame avoidance
+:::
+
+## Environmental Regulations: Delegation and Oversight 
+
+**Elected officials use various oversight and control mechanisms to manage the bureaucracy** 
+
+## Environmental Bureaucracy: Delegation and Oversight 
+
+::: {.incremental}
+**President**
+
+* Appointment of sympathetic agency heads
+* Regulatory review prior to final rule enactment
+* Executive orders
+* Changes in budget authority
+* Bureaucratic reorganization plans
+:::
+
+## Environmental Regulations: Delegation and Oversight 
+
+::: {.incremental}
+**Congress**
+
+* Authorization of agency
+* Legislative language restricting discretion
+* Budgetary control
+* _Police patrol_ oversight: Active monitoring
+* _Fire alarm_ oversight: React to complaints from citizens and/or interest groups
+:::
+
+## 
+
+quiz q
+
+
+# The Rulemaking Process 
+
+
+## The Administrative Procedures Act (1945)
+
+::: {.incremental}
+* **The agency can only act within the limits set by statute**  
+
+* The APA established the procedures an agency must follow to promulgate binding rules and regulations
+
+* The agency must meet the following tests: 
+  * Be reasonable (sufficient factual support in the record)
+  * Not be arbitrary or capricious 
+  * Not be an abuse of discretion
+
+* Involves various stages and requires opportunities for public involvement 
+:::
+ 
+::: {.notes}
+arbitrary: based on random choice or personal whim, rather than any reason or system
+
+capricious: given to sudden and unaccountable changes of mood or behavior 
+
+:::
+ 
+## Types of Rules
+
+::: {.incremental}
+* **Formal rule**: Formal hearings that resemble a courtroom proceeding  
+
+* **Informal rule** (_Notice and Comment_): A quasi-legislative process that requires a public comment period
+
+* **Negotiated rulemaking**: Agency officials organize and participate in negotiations with stakeholders to develop a rule
+
+* **Hybrid**: Combines formal and informal 
+
+:::
+
+
+## The Rulemaking Process 
+
+### Stage 1: Pre-Proposal $\rightarrow$ Stage 2: Notice and Comment $\rightarrow$ Stage 3: Rule Finalization
+
+
+## The Rulemaking Process 
+
+::: {.incremental}
+* **Stage 1: Pre-Proposal** 
+  * Gather technical, scientific, and economic information regarding why a rule is necessary, as well as how a rule should be developed
+  * Benefit-cost analysis of significant rules 
+:::
+
+
+## The Rulemaking Process 
+
+::: {.incremental}
+* **Stage 2: Notice and Comment** 
+  * Publish a Notice of Proposed Rulemaking (NPRM) in the _Federal Register_
+  * Comment period of 30 to 60 days 
+  * [Regulations.gov](https://www.regulations.gov/)
+:::
+
+## The Rulemaking Process 
+
+::: {.incremental}
+* **Stage 3: Rule Finalization** 
+  * Final rule is published in the _Federal Register_ 
+  * Agencies prepare for litigation 
+:::
+
+
+## 
+
+![](img/rulemaking.jpeg)
+
+## The Rulemaking Process 
+
+:::::::::::::: {.columns}
+::: {.column}
+**The Administrative Presidency** 
+
+* Office of Management and Budget (OMB)
+  * Office of Information and Regulatory Affairs (OIRA)
+
+**Significant regulations must be reviewed by OIRA before publication**
+:::
+::: {.column}
+![](img/adminPres.png)
+:::
+::::::::::::::
+
+## The Rulemaking Process 
+
+### Significant Regulations
+
+::: {.incremental}
+* **Economically significant**
+  * An annual effect on the economy of $100 million or more
+  
+* Conflict with another agency 
+
+* Raise novel legal or policy issues 
+:::
+
+## EPA Significant Regulations
+```{r, echo=FALSE, message=FALSE}
+## data obtained here: https://regulatorystudies.columbian.gwu.edu/economically-significant-rules-agency
+library(ggplot2)
+epaRules <- read.csv("/Users/nowlinmc/Dropbox/Projects/Data/EPArules.csv")
+
+epaR <- ggplot(data=epaRules, aes(x=year)) +
+  geom_line(aes(y=rules), size=2) +
+  # ylim(0, 5) +
+  theme_bw() + 
+  xlab("Year") + ylab("Number of Rules")
+
+epaR + ggtitle("Number of Significant Regualtions from the EPA: 1981-2020") +
+     theme(plot.title = element_text(lineheight=.8, face="bold"))
+```
+
+

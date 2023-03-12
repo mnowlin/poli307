@@ -1,0 +1,260 @@
+Fit Code,Topic Code,CAP Topic Code,Description,Major Budget Code #1,Subfunction Name,Major Budget Code #2,Major Budget Code #3,Minor Budget Code #4,Minor Budget Code #5,Remarks
+4,323,323,Other or multiple benefits and procedures,0,not applicable,551,0,0,0,551 for health care for special groups and grants for HIV prevention
+5,1,1,MACROECONOMICS,0,not applicable,0,0,0,0,"Generally, no budget for macroeconomics"
+5,2,2,"CIVIL RIGHTS, MINORITY RIGHTS AND CIVIL LIBERTIES",0,not applicable,0,0,0,0,"Generally, no budget for civil rights and liberty"
+2,3,3,HEALTH,550,HEALTH,570,703,751,51,Include Medicare and Vet's; 751 & 51 for Drugs
+2,4,4,AGRICULTURE,350,AGRICULTURE,0,0,371,554,371 for rural housing;554 for food safety & insp
+2,5,5,"LABOR, EMPLOYMENT, AND IMMIGRATION",504,Training and employment,505,603,554,601,"Major:504,505,603,554. Minor: 601"
+2,6,6,EDUCATION,501,"Elementary, secondary, and vocational education",502,503,702,0,"702 for Veterans training, education, and rehab"
+1,7,7,ENVIRONMENT,300,NATURAL RESOURCES AND ENVIRONMENT,0,0,0,0,
+1,8,8,ENERGY,270,ENERGY,0,0,0,0,
+1,10,10,TRANSPORTATION,400,TRANSPORTATION,0,0,0,0,All in 400 except Corps of Eng in 301
+3,12,12,"LAW, CRIME, FAMILY",750,ADMINISTRATION OF JUSTICE,0,0,0,0,
+2,13,13,SOCIAL WELFARE,506,Social services,605,609,651,601,"Major: 506, 605, 609, 651. Minor 601"
+3,14,14,COMMUNITY DEVELOPMENT AND HOUSING ISSUES,451,Community development,604,371,704,352,also bit of 751 for fair housing activities
+3,15,15,"BANKING, FINANCE, AND DOMESTIC COMMERCE",373,Deposit insurance,376,453,554,752,"Major:373,376,453,554. Minor: 752,371(?)"
+2,16,16,DEFENSE,50,NATIONAL DEFENSE,152,701,705,0,"Major: 050,152,701,705."
+3,17,17,"SPACE, SCIENCE, TECHNOLOGY, AND COMMUNICATIONS",250,"GENERAL SCIENCE, SPACE AND TECHNOLOGY",306,0,376,0,306 for NOAA; bit of 376 for FCC & Natl Telecom IA
+3,18,18,FOREIGN TRADE,150,INTERNATIONAL AFFAIRS,376,0,0,0,
+3,19,19,INTERNATIONAL AFFAIRS AND FOREIGN AID,150,INTERNATIONAL AFFAIRS,0,0,0,0,
+3,20,20,GOVERNMENT AND INTERGOVERNMENT OPERATIONS,800,GENERAL GOVERNMENT AND GENERAL PURPOSE FISCAL ASSISTANCE,602,506,376,451,376 for census; 506/451/604/609/371 et al. for urban
+3,21,21,PUBLIC LANDS AND WATER MANAGEMENT,300,NATURAL RESOURCES AND ENVIRONMENT,953,0,452,501,452/501 for Indian affairs; 953 for offshore rents
+5,100,100,General MACROECONOMICS,0,not applicable,0,0,0,0,
+4,101,101,"Inflation, Interest rates, and prices",900,NET INTEREST,0,0,504,0,
+4,103,103,"Unemployment rates, increase employment",603,Unemployment compensation,0,0,504,0,603 for unemp comp; 504 for admin of state agencie
+5,104,104,"Monetary supply, exchange rates, Fed, the Economy",0,not applicable,0,0,0,0,No approps for Fed Res
+3,105,105,"National debt and deficit, National Budget",901,Interest on the public debt,0,0,802,0,802 for OMB budget; 901 lagged for pub int payment
+3,107,107,"Taxation, Internal Revenue Service",0,not applicable,0,0,0,0,Linked to Revenue (no budget code)
+3,108,108,"Industrial recovery, development, growth",376,Other advancement of commerce,0,0,0,0,
+3,198,198,Macroeconomics - R&D,376,Other advancement of commerce,0,0,0,0,376 for Census and DoC research
+5,199,199,Macroeconomics - Other,0,not applicable,0,0,0,0,
+4,200,200,"General CIVIL RIGHTS,  et al.",0,not applicable,751,505,805,0,751 for EEOC; 505 for EEO of fed contractors
+3,201,201,Ethnic minority and racial group discrimination,0,not applicable,0,0,505,501,505 for Womens Bur of DoL; 501 for educ equity
+5,202,202,Gender and sexual orientation discrimination,0,not applicable,0,0,0,0,
+5,204,204,Age Discrimination,0,not applicable,0,0,0,0,
+5,205,205,Handicap or diesease discrimination,0,not applicable,0,0,0,0,
+5,206,206,Voting rights and issues,0,not applicable,0,0,0,0,
+5,207,207,Freedom of speech and religion,0,not applicable,0,0,0,0,
+5,208,208,Right to privacy and access to government information (FOIA),0,not applicable,0,0,0,0,
+5,298,298,"Civil Rights, et. al. - R&D",0,not applicable,0,0,0,0,
+5,299,299,"Civil Rights, et. al. - Other",0,not applicable,0,0,0,0,
+3,300,300,General HEALTH,550,HEALTH,570,0,0,0,
+5,301,301,Comprehensive health care reform,0,not applicable,0,0,0,0,
+3,302,302,"Insurance reform, availability, and cost",551,Health care services,571,651,0,0,
+5,321,321,"Regulation of drug industry, medical devices, and clinical labs",0,not applicable,0,0,0,0,
+4,322,322,"Facilities constuction, regulations and payments",0,not applicable,703,0,0,0,703 for Vet Hospital construction
+5,323,323,Provider and insurer payment and regulation,0,not applicable,0,0,0,0,
+4,324,324,"Medical liability, fraud, and abuse",0,not applicable,0,751,0,0,751 for law enforcement
+4,325,325,Health manpower and training,0,not applicable,552,0,0,0,552 for govt sponsored health training
+3,331,331,"Prevention, communicable diseases and health promotion (e.g CDC)",551,Health care services,0,0,0,0,551 for CDC
+3,332,332,Infants and children,551,Health care services,552,808,0,0,808 for Natl Comm to Prevent Infant Mortality
+3,333,333,Mental illness and mental retardation,551,Health care services,552,571,0,0,552 for Natl Institutes of Health
+4,334,334,"Long-term care, home health, terminally ill, and rehabilitation services",571,Medicare,551,703,0,0,"571 for Medicare, 551 for Medicaid, & 703 for Veteran medical care"
+4,335,335,Prescription drug coverage and costs,571,Medicare,703,0,0,0,571 for Medicare Part D;703 for Vet health care
+3,341,341,"Tobacco abuse, treatment, and education",552,Health research and training,551,0,0,0,
+3,342,342,Alcohol abuse and treatment,552,Health research and training,551,0,0,0,552 for Natl Inst on Alcohol Abuse & Alcoholism
+3,342,342,"Controlled and illegal drug abuse, treatment and education",552,Health research and training,551,501,0,0,501 for grants to states for drug-free schools
+3,342,342,Drug and alcohol or substance abuse treatment,551,Health care services,0,0,0,0,551 for substance abuse & mental health services
+5,3XX,3XX,No reference to any federal programs,0,not applicable,0,0,0,0,
+1,3XX,3XX,"Medicare (Title XVIII, at least post-1972)",571,Medicare,0,0,0,0,
+2,3XX,3XX,"Medicaid (Title XIX, at least post-1972)",551,Health care services,0,0,0,0,Medicaid is part of 551
+1,3XX,3XX,Military and  Veterans Health (Title 38),703,Hospital and medical care for veterans,0,0,0,0,
+5,3XX,3XX,Federal Employees Health Benefits (FEHB),0,not applicable,0,0,0,0,
+4,3XX,3XX,"Other specific program (Public Health Service, NIH, etc.)",552,Health research and training,0,0,0,0,552 for NIH
+5,3XX,3XX,Mulitple programs,0,not applicable,0,0,0,0,
+2,398,398,Health - R&D,552,Health research and training,0,0,0,0,
+3,399,399,Health - Other,550,HEALTH,570,0,0,0,
+3,400,400,General AGRICULTURE,350,AGRICULTURE,0,0,0,0,
+3,401,401,"Agriculture exports, imports, trade",352,Agricultural research and services,0,0,376,0,See hearing topic 1803 for non-Ag trade promotion
+2,402,402,"Subsidies, credit assistance, price supports, agricultural disaster insurance",351,Farm income stabilization,0,0,371,0,371 for rural housing credit
+2,403,403,Food inspection and safety (including seafood),554,Consumer and occupational health and safety,0,0,352,0,554 for FDA;554 & 352 Ag Food Sfty & Inspec Svs
+2,404,404,"Food promotion, research and promotion",352,Agricultural research and services,0,0,0,0,
+3,405,405,Disease and pest control (not pollution effects),352,Agricultural research and services,0,0,0,0,
+3,498,498,Agriculture - R&D,352,Agricultural research and services,0,0,0,0,
+3,499,499,Agriculture - Other,350,AGRICULTURE,0,0,0,0,
+3,500,500,"General LABOR, EMPLOYMENT, AND IMMIGRATION",500,"EDUCATION, TRAINING, EMPLOYMENT, & SOCIAL WELFARE",600,0,0,0,
+3,501,501,"Worker safety and protection (OSHA,), Fair labor standards",554,Consumer and occupational health and safety,505,0,0,0,554 for OSHA; 505 for NLRB
+2,502,502,Employment training and workforce development,504,Training and employment,452,0,0,0,452 for treaty adjustment assistance
+3,503,503,"Employee benefits, pensions, worker's comp, unemployment comp",603,Unemployment compensation,601,0,0,0,See hearing topic 1303 for social security
+3,504,504,"Labor unions, labor unrest, collective bargaining",505,Other labor services,0,0,0,0,505 for NLRB
+3,505,505,Fair labor standards,505,Other labor services,0,0,0,0,505 for Wage & Hour Division of DoL
+3,506,506,"Youth Employment, jobs corps",504,Training and employment,0,0,0,0,
+2,508,1308,"Parental leave, child care",609,Other income security,506,0,0,0,609 for AFDC & transitional day care payments
+5,529,529,Migrant and seasonal workers; farm labor issues,0,not applicable,0,0,0,0,
+3,900,900,"General immigration issues, refugees and refugee policy",751,Federal law enforcement activities,0,0,0,0,751 for INS
+4,598,598,"Labor, et. al. - R&D",503,Research and general education aids,0,0,0,0,
+3,599,599,"Labor, et. al. - Other",505,Other labor services,0,0,0,0,
+3,600,600,General EDUCATION,500,"EDUCATION, TRAINING, EMPLOYMENT, & SOCIAL WELFARE",0,0,0,0,
+2,601,601,"Higher education, financing, student loans, GI bill",502,Higher education,702,0,0,0,502 for Sallie Mae and Connie Lee
+2,602,602,"Elementary and secondary education, financing",501,"Elementary, secondary, and vocational education",0,0,0,0,
+3,603,603,Education of underprivileged students (head start),506,Social services,0,0,0,0,
+2,604,604,Vocational education,501,"Elementary, secondary, and vocational education",0,0,0,0,
+2,606,606,"Special education, handicapped",501,"Elementary, secondary, and vocational education",0,0,0,0,
+2,607,607,"Increase Math and science education, education excellence",503,Research and general education aids,0,0,0,0,
+3,609,2300,"Arts and Humanities, NEA, NEH",503,Research and general education aids,0,0,0,0,
+3,698,698,Education - R&D,503,Research and general education aids,0,0,0,0,
+3,699,699,Education - Other,500,"EDUCATION, TRAINING, EMPLOYMENT, & SOCIAL WELFARE",0,0,0,0,
+3,700,700,General ENVIRONMENT,300,NATURAL RESOURCES AND ENVIRONMENT,0,0,0,0,
+3,701,701,"Water pollution, Safe drinking water",304,Pollution control and abatement,352,301,0,0,352 for Agri water qual resrch
+3,702,702,"Waste disposal, sewage treatment.",304,Pollution control and abatement,0,0,0,0,
+3,704,704,"Hazardous waste, EPA Superfund, hazardous medical waste",304,Pollution control and abatement,0,0,0,0,
+3,705,705,"Air pollution, global warming, acid rain, ozone depletion",304,Pollution control and abatement,0,0,0,0,
+4,707,707,Recycling,304,Pollution control and abatement,0,0,0,0,
+3,708,708,"Indoor environmental threats (radon, asbestos, etc.)",304,Pollution control and abatement,0,0,0,0,
+3,709,709,"Endangered species, protected habitats, marine mammal",302,Conservation and land management,306,0,0,0,306 for NOAA and marine mammals act
+3,710,701,"Coastal resource mgt., marine sanctuaries, wetlands",301,Water resources,303,0,0,0,
+2,711,711,"Land and water conservation, erosion.",302,Conservation and land management,0,0,0,0,
+3,798,798,Environment - R&D,300,NATURAL RESOURCES AND ENVIRONMENT,0,0,0,0,
+3,799,799,Environment - Other,300,NATURAL RESOURCES AND ENVIRONMENT,0,0,0,0,
+3,800,800,General ENERGY,270,ENERGY,0,0,0,0,
+2,801,801,"Nuclear energy, NRC licensing and other NRC issues",276,"energy information, policy, and regulation",270,0,0,0,276 for NRC
+3,802,802,"Hydroelectricity, TVA, Dams, electricity",270,ENERGY,276,0,0,0,276 for Fed Energy Regulatory Commission
+3,803,803,"Natural gas and oil, offshore, pipelines, gasoline",270,ENERGY,271,0,0,0,271 for Navel Petro & Oil Shale Reserve
+3,805,805,"Coal, coal gasification, coal slurry pipelines",270,ENERGY,271,0,0,0,271 for Coal R&D
+3,806,806,"Alternative energy (solar, wind, geothermal, etc)",270,ENERGY,271,0,0,0,271 for Geothermal Resources Devlpt Fund
+1,807,807,Energy Conservation,272,Energy conservation,0,0,0,0,
+3,898,898,Energy - R&D,270,ENERGY,271,0,0,0,
+3,899,899,Energy - Other,270,ENERGY,0,0,0,0,
+3,1000,1000,General TRANSPORTATION,400,TRANSPORTATION,0,0,0,0,
+2,1001,1001,"Mass transportation, safety",401,Ground transportation,0,0,0,0,401 for Fed Transit Act grants
+2,1002,1002,"Highway construction, maintenance, safety",401,Ground transportation,0,0,0,0,401 for Fed Highway Administration
+2,1003,1003,"Airports, airlines, air traffic control and safety.",402,Air transportation,0,0,0,0,
+2,1005,1005,"Rail, safety",401,Ground transportation,0,0,0,0,
+2,1006,1002,Truck and automobile safety,401,Ground transportation,0,0,0,0,
+2,1007,1007,"Maritime, shipping, safety,  Coast Guard, merchant marines",403,Water transportation,0,0,0,0,
+3,1010,1010,General Public Works,301,Water resources,407,400,0,0,301 for Army Corps of Engineers
+3,1098,1098,Transportation - R&D,400,TRANSPORTATION,0,0,0,0,
+3,1099,1099,Transportation - Other,400,TRANSPORTATION,0,0,0,0,
+3,1200,1200,"General LAW, CRIME, FAMILY",750,ADMINISTRATION OF JUSTICE,0,0,0,0,
+2,1201,1201,"Executive crime agencies (FBI, DOJ, Customs, ATF, DHS)",751,Federal law enforcement activities,0,0,0,0,
+3,1202,1202,White collar crime and organized crime,751,Federal law enforcement activities,752,0,0,0,
+2,1203,1203,"Illegal drug production, trafficking, and control",751,Federal law enforcement activities,51,0,0,0,751 for DEA; 51 for Def drug inter
+2,1204,1204,Court administration (inc. legal services),752,Federal litigative and judicial activities,754,0,0,0,752 for Legal Svs Corp (private & non-profit)
+2,1205,1205,Prisons,753,Federal correctional activities,0,0,0,0,
+3,1206,1206,"Juvenile justice, juvenile delinquency, runaways",754,Criminal justice assistance,0,0,0,0,
+3,1207,1207,"Child abuse, child pornography, child abduction",754,Criminal justice assistance,0,0,0,0,
+3,1208,1208,"Family law, divorce, adoption, teenage pregnancy",750,ADMINISTRATION OF JUSTICE,0,0,0,0,
+3,1209,1201,"Police, fire, and weapons  control",751,Federal law enforcement activities,0,0,0,0,
+4,1210,1210,Criminal and civil code,0,not applicable,0,752,0,0,752 for operations of federal court system and DoJ
+4,1211,1211,Riots and crime prevention,0,not applicable,0,751,0,0,751 for law enforcement
+3,1298,1298,"Law, et. al. - R&D",750,ADMINISTRATION OF JUSTICE,0,0,0,0,
+3,1299,1299,"Law, et. al. - Other",750,ADMINISTRATION OF JUSTICE,0,0,0,0,
+3,1300,1300,General SOCIAL WELFARE,600,INCOME SECURITY,650,506,0,0,
+2,1301,1301,"Food assistance, nutrition monitoring, food stamps",605,Food and nutrition assistance,0,0,0,0,605 for WIC and Food Stamps
+2,1302,1301,"Assistance to poor, poverty (AFDC, SSI, tax credit)",609,Other income security,0,0,504,0,609 for SSI and AFDC 504 AFDC work pgms
+2,1303,1303,Assistance to Elderly: (Social security),651,Social security,506,0,0,0,651 for OASI;506 for aging svs programs
+3,1304,1304,Assistance to disabled,601,General retirement and disability insurance,0,0,501,502,601:coal miners;751:barriers;501:blind;502:deaf
+2,1305,1305,"Social services, general assistance, ACTION, VISTA",506,Social services,0,0,0,0,See also Corp for Natl & Community Svs
+3,1398,1398,Social Welfare - R&D,506,Social services,609,0,0,0,
+3,1399,1399,Social Welfare - Other,500,"EDUCATION, TRAINING, EMPLOYMENT, & SOCIAL WELFARE",600,0,0,0,
+3,1400,1400,General COMMUNITY DEVELOPMENT AND HOUSING ISSUES,451,Community development,604,371,704,352,
+3,1401,1401,"Housing and community development (revitalization, preservation)",450,COMMUNITY AND REGIONAL DEVELOPMENT,604,451,0,0,604 for housing assistance & 451 for community development block grants
+3,1403,1403,Urban economic development and general urban issues,450,COMMUNITY AND REGIONAL DEVELOPMENT,0,451,0,0,451 for community development block grants
+3,1404,1404,Rural housing and FmHA Housing assistance programs,371,Mortgage credit,0,0,452,0,452 for admin of FmHa
+3,1405,1405,Rural Economic development,0,not applicable,0,452,271,0,452 for Economic Dev Agency & 271 for rural electric and telepone lines
+4,1406,1406,Low and middle income housing programs and needs.,604,Housing assistance,0,0,0,0,604 includes middle income assistance as well as a variety of other housing programs
+3,1407,1407,Veterans Housing assistance and military housing programs,700,VETERANS BENEFITS AND SERVICES,704,51,0,0,704 for net Vet housing assistance & 051-MFH for military family housing
+4,1408,1408,Elderly and handicapped housing,604,Housing assistance,0,0,0,0,"604 includes elderly assistance, the Affordable Housing Program, and a variety of other housing programs"
+3,1409,1409,Housing assistance for homeless and homeless issues,506,Social Services,451,0,0,0,
+2,1406,1406,Secondary mortgage market,371,Mortgage credit,0,0,0,0,
+3,1498,1498,"Community Development, et. al.  - R&D",451,Community development,604,371,705,352,
+3,1499,1499,"Community Development, et. al.  - Other",451,Community development,604,371,705,352,
+3,1500,1500,"General BANKING, FINANCE, AND DOMESTIC COMMERCE",373,Deposit insurance,376,554,752,0,
+2,1501,1501,"Financial institution regulation, fraud, FDIC, RTC, FSLIC",373,Deposit insurance,0,0,0,0,
+3,1502,1502,"Securities, commodities, futures, SEC, Government bonds",376,Other advancement of commerce,0,0,0,0,376 for SEC
+4,1504,1504,"Consumer finance, mortgages, credit reports, credit cards",371,Mortgage credit,0,0,0,0,
+5,1505,1505,"Insurance (life, health, home, auto, except health)",0,not applicable,0,0,0,0,
+4,1507,1507,Bankruptcy,0,not applicable,0,0,752,0,752 for bankrupcy judges
+3,1520,1520,"Corporate mergers, antitrust regulation, and corporate management issues",376,Other advancement of commerce,0,0,752,0,752 for Antitrust Div of DoJ
+3,1521,1521,Small Business issues,376,Other advancement of commerce,0,0,0,0,
+4,1522,1522,Copyrights and Patents,376,Other advancement of commerce,0,0,0,0,"376 for Patent & Trademark Ofc, mostly fee-funded"
+2,1523,1523,"Domestic disaster relief, disaster insurance, FEMA, prevention",453,Disaster relief and insurance,0,0,0,0,
+3,1524,1524,Tourism,376,Other advancement of commerce,0,0,0,0,
+3,1525,1525,"Consumer Safety Issues (excluding food, transportation, health, financial",554,Consumer and occupational health and safety,0,0,0,0,
+3,1598,1598,"Banking, et. al. - R&D",376,Other advancement of commerce,554,0,0,0,Research for Census Bur & Ofc of Tech Policy
+3,1599,1599,"Banking, et. al. - Other",373,Deposit insurance,376,554,752,0,
+2,1600,1600,General DEFENSE,50,NATIONAL DEFENSE,152,701,705,0,
+3,1602,1602,"US defense alliances, other alliances (Warsaw Pact, etc.)",152,International security assistance,50,0,0,0,
+4,1603,1603,"Intelligence, Espionage",54,Defense-related activities,0,0,0,0,54 for CIA Retirement & Disability Fund
+2,1604,1604,"Preparedness, mobilization, readiness",51,Department of Defense-Military,0,0,0,0,O&M (051 subfunction)
+3,1605,1605,"Arms control, nuclear nonproliferation, arms reductions",50,NATIONAL DEFENSE,152,0,0,0,
+2,1606,1606,Military aid and weapons sales,152,International security assistance,155,0,0,0,152 for Mil Aid; 155 for FMS
+1,1608,1608,"Manpower, Military personnel and dependents, active",51,Department of Defense-Military,0,0,0,0,Mil Pers (051 subfunction)
+2,1609,1608,"VA benefits, retired military personnel",700,VETERANS BENEFITS AND SERVICES,51,0,0,0,
+1,1610,1610,"Military procurement, weapons systems acquisitions",51,Department of Defense-Military,0,0,0,0,Proc (051 Subfunction)
+1,1611,1611,"Installations, Military construction",51,Department of Defense-Military,0,0,0,0,MilCon (051 Subfunction)
+3,1612,1612,National Guard and Reserve affairs,51,Department of Defense-Military,0,0,0,0,
+3,1614,1614,Defense related hazardous waste disposal,50,NATIONAL DEFENSE,0,0,0,0,
+3,1615,1615,Civil defense (war related),50,NATIONAL DEFENSE,453,0,0,0,
+3,1616,1616,"DOD civilian personnel, defense industry employment, base closings",50,NATIONAL DEFENSE,51,0,0,0,Largely 051 O&M
+4,1617,1617,"Oversight of defense contractors, contractor fraud",51,Department of Defense-Military,0,0,0,0,
+4,1619,1619,Direct war-related issues,51,Department of Defense-Military,0,0,0,0,
+3,1620,1620,Relief of claims against U.S. military,0,not applicable,0,0,51,808,051 for claims against DoD military & 808 for other adjudicated claims against the US govt
+2,1698,1698,Defense - R&D,51,Department of Defense-Military,0,0,0,0,RDT&E (051 Subfunction)
+3,1699,1699,Defense - Other,50,NATIONAL DEFENSE,0,0,54,0,"054-Other for revolving, management, trust funds, and other expenses "
+3,1700,1700,"General SPACE, SCIENCE, TECHNOLOGY, AND COMMUNICATIONS",250,"GENERAL SCIENCE, SPACE AND TECHNOLOGY",0,0,0,0,
+2,1701,1701,"NASA, Space exploration",252,"Space flight, research, and supporting activities",0,0,0,0,
+3,1704,1704,"Commercial use of space, private, satellites (excluding weather)",252,"Space flight, research, and supporting activities",0,0,0,0,
+4,1705,1705,"Science technology transfer, international scientific cooperation",251,General science and basic research,0,0,0,0,
+3,1706,1706,"Telephone, telecommunications,  regulation",376,Other advancement of commerce,0,0,0,0,
+3,1707,1707,"Broadcast industry (TV, cable, radio), regulation",376,Other advancement of commerce,503,0,0,0,
+2,1708,1708,"Weather forecasting, related issues, NOAA",306,Other natural resources,0,0,0,0,NOAA seems to be most of 306
+5,1709,1709,"Computer industry, computer security",0,not applicable,0,0,0,0,
+3,1798,1798,"Space, et. al. - R&D",251,General science and basic research,0,0,0,0,
+3,1799,1799,"Space, et. al. - Other",250,"GENERAL SCIENCE, SPACE AND TECHNOLOGY",0,0,0,0,
+3,1800,1800,General FOREIGN TRADE,376,Other advancement of commerce,155,153,0,0,See hearing topic 401 for Ag Trade Service
+3,1802,1802,"Trade negotiations, disputes and agreements",153,Conduct of foreign affairs,376,0,0,0,
+2,1803,1803,"Exports, promotion, Ex-Import Bank, export regulation",155,International financial programs,376,0,0,0,155 for US quota for IMF as well
+4,1804,1804,International private business investments		,376,Other advancement of commerce,0,0,0,0,
+3,1806,1806,Productivity and competitiveness of U.S. business,376,Other advancement of commerce,0,0,0,0,
+4,1807,1807,"Tariff and import restrictions, import regulation",0,not applicable,0,0,802,0,802 for the US Trade Representative in the EOP
+4,1808,1808,Exchange rates and related issues,155,International financial programs,0,0,0,0,155 includes the Exchange Stabilization Fund of the Sec of Treasury
+3,1898,1898,Foreign Trade - R&D,376,Other advancement of commerce,0,0,150,0,
+3,1899,1899,Foreign Trade - Other,376,Other advancement of commerce,0,0,150,452,452 for Econ Dev Corp aid to GATT & NAFTA
+3,1900,1900,General INTERNATIONAL AFFAIRS AND FOREIGN AID,150,INTERNATIONAL AFFAIRS,0,0,0,0,
+2,1901,1901,"Economic foreign aid given by US,  Food and medical aid",151,International developmnt & humanitarian assistance,0,0,0,0,
+3,1902,1902,International resources exploitation and resources agreement,153,Conduct of foreign affairs,0,0,302,376,302 for Internatl Fisheries Comm;376 for Forn Fish
+4,1905,1905,Developing countries issues (for financial issues see 1906),0,not applicable,0,0,151,153,151 for international development and humanitarian assistance & 153 for conduct of foreign affairs
+3,1906,1906,"IMF, World Bank, Development Banks, Third world debt",155,International financial programs,0,0,150,155,See Funds Appropriated to the President for MDB & 155 for the IMF
+4,1921,1921,China,150,INTERNATIONAL AFFAIRS,0,0,0,0,
+4,1921,1921,"Soviet Union, republics of former S. U.",150,INTERNATIONAL AFFAIRS,0,0,0,0,
+4,1921,1921,Eastern Europe,150,INTERNATIONAL AFFAIRS,0,0,0,0,
+4,1910,1910,"Western Europe, Common market issues",150,INTERNATIONAL AFFAIRS,0,0,0,0,
+4,1921,1921,Africa,150,INTERNATIONAL AFFAIRS,0,0,0,0,
+4,1921,1921,South Africa,150,INTERNATIONAL AFFAIRS,0,0,0,0,
+4,1921,1921,"Latin American including Mexico, Caribbean",150,INTERNATIONAL AFFAIRS,0,0,0,0,
+4,1921,1921,"Asia, Pacific Rim, Australia",150,INTERNATIONAL AFFAIRS,0,0,0,0,
+4,1921,1921,Middle East,150,INTERNATIONAL AFFAIRS,0,0,0,0,
+4,1925,1925,"Human rights, Helsinki Act",150,INTERNATIONAL AFFAIRS,0,0,0,0,
+3,1926,1926,"International organizations (UN, UNESCO)",153,Conduct of foreign affairs,0,0,0,0,
+3,1927,1927,Terrorism,153,Conduct of foreign affairs,0,0,0,0,
+3,1929,1929,"U.S. citizens abroad, property, diplomats abroad",153,Conduct of foreign affairs,0,0,0,0,
+4,1998,1998,Foreign Affairs and Foreign Trade - R&D,150,INTERNATIONAL AFFAIRS,0,0,0,0,
+3,1999,1999,Foreign Affairs and Foreign Trade - Other,150,INTERNATIONAL AFFAIRS,0,0,0,0,
+3,2000,2000,General GOVERNMENT OPERATIONS,800,GENERAL GOVERNMENT,0,0,0,0,
+4,2001,2001,Intergovernmental relations,0,not applicable,0,0,806,0,806 for payments to states and counties
+4,2002,2002,Government efficiency and bureaucratic oversight,801,Legislative functions,0,0,0,0,801 for GAO; PAYGO scattered throughout 95 BUSG
+0,2003,2003,"Postal service, commemorative stamps, mail fraud",372,Postal Service,0,0,0,0,Postal service
+3,2004,2004,"Government employees, benefits, civil service",602,Federal employee retirement and disability,805,0,0,0,
+5,2005,2005,Nominations,0,not applicable,0,0,0,0,
+3,2006,2006,"Currency, commemorative coins, medals, stamps, US Mint",803,Central fiscal operations,0,0,0,0,
+4,2007,2007,"Procurement fraud, contractor management",0,not applicable,0,0,505,801,IGs by agency; 505 for EEO of fed cont;801 for GAO
+2,2008,2008,Government property,804,General property and records management,0,0,0,0,
+3,2009,2009,IRS Administration,803,Central fiscal operations,0,0,0,0,803 for expenses of collecting of taxes
+5,2010,2010,Presidential impeachment and scandal,0,not applicable,0,0,0,0,
+5,2011,2011,"Federal government branch relations and administrative issues, congressional operations",0,not applicable,0,0,0,0,
+4,2012,2012,"Regulation of Political campaigns, political advertising, PAC regulation, voter registration, government ethics",0,not applicable,0,0,808,0,808 for Pres election campaign fund
+4,2013,2013,Census,0,not applicable,0,0,376,0,376 includes the Bureau of the Census under the Dept of Commerce
+4,2014,2014,District of Columbia affairs,806,General purpose fiscal assistance,0,0,0,0,
+3,2015,2015,Relief of claims against the U.S. government,808,Other General Government,0,0,0,0,"808 has, among other things, adjudicated claims against the US govt, not covered by a specific govt. agency"
+5,2030,2030,Federal Holidays,0,not applicable,0,0,0,0,
+5,2098,2098,Government Operations - R&D,0,not applicable,0,0,0,0,
+3,2099,2099,Government Operations - Other ,800,GENERAL GOVERNMENT,0,0,0,0,
+3,2100,2100,General PUBLIC LANDS AND WATER MANAGEMENT,300,NATURAL RESOURCES AND ENVIRONMENT,0,0,0,0,
+2,2101,2101,"National parks and recreation, historic sites, scenic areas",303,Recreational resources,0,0,0,0,
+3,2102,2102,Indian lands and affairs,452,Area and regional development,604,501,551,0,"452, area devlpmt; 604, housing; 501, educ;etc."
+2,2103,2103,"Public lands management, timber, minerals, ranch land, offshore mineral mining, natural resources",300,NATURAL RESOURCES AND ENVIRONMENT,302,953,0,0,302 for Conservation and Land Management & 953 for Rents and Royalties on the Outer Continental Shelf
+1,2104,2104,Water resource development,301,Water resources,0,0,0,0,
+4,2105,2105,U.S. Dependencies and territorial issues,0,not applicable,0,0,808,806,808 for Dept of Interior programs for US territories and ex-territories & 806 includes some support for territorial govts
+3,2198,2198,"Public Lands, et. al. - R&D",300,NATURAL RESOURCES AND ENVIRONMENT,0,0,0,0,
+3,2199,2199,"Public Lands, et. al. - Other",300,NATURAL RESOURCES AND ENVIRONMENT,0,0,0,0,

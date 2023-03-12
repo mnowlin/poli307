@@ -370,6 +370,7 @@ ggNYT + ggtitle("Environment in the New York Times") +
 :::
 ::::::::::::::
 
+<!-- 
 ## Policy Subsystems 
 
 **Substantive issue alliances that cross institutional boundaries and include both governmental [official] and nongovernmental [unofficial] actors** 
@@ -386,5 +387,4 @@ ggNYT + ggtitle("Environment in the New York Times") +
 ### Iron triangles and Issue networks
 
 ![](img/subsystems.jpg)
-
-
+-->

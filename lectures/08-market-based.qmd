@@ -1,0 +1,236 @@
+---
+title: "Market-Based Environmental Policy"
+subtitle: "POLI 307: Environmental Policy"
+date: "Spring 2023"
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscript-Files/csl/american-political-science-association.csl
+format:
+  pptx:
+    reference-doc: template.pptx
+    slide-level: 2
+---
+
+# Markets and Market Failures
+
+## Markets 
+
+::: {.incremental}
+* **A decentralized collection of buyers and sellers whose interactions determine the allocation of a good or a set of goods through exchange**
+
+* Market rules
+  * Medium of exchange 
+  * Way to communicate price 
+  * _Property rights_ 
+
+* Exchange provides gains from trade
+
+* **When assumptions are met, markets provide the most _efficient_ allocation of resources**
+:::
+
+## Markets 
+
+:::::::::::::: {.columns}
+::: {.column}
+**Assumptions**
+
+* Perfect competition 
+* Perfect information 
+* Perfectly complete
+:::
+::: {.column}
+![](img/sd.jpeg)
+:::
+::::::::::::::
+
+## Market Failures 
+
+::: {.incremental}
+* ~~Perfect competition~~ 
+  * **Insufficient competition**: Monopolies
+
+* ~~Perfect information~~ 
+  * **Asymmetric information**: Used car
+
+* ~~Perfectly complete~~
+  * **Externalities**: Pollution 
+
+* **Common-pool goods** 
+  * Open pasture
+
+* **Public goods** 
+  * Clean air
+:::
+
+## Market Failures 
+
+::: {.incremental}
+* A market-failure means that markets are _not_ providing the most efficient allocation of resources 
+
+* **Market-based policies are intended to address efficiency concerns**
+:::
+
+## Market-Based Environmental Policy 
+
+::: {.incremental}
+* **Incorporate market principles into government policies** 
+
+* **Polluters have an incentive to reduce their emissions** 
+
+* **Decentralized _as compared to command-and-control regulation_** 
+
+* **Two types**
+  * **Using markets** 
+  * **Creating markets** 
+:::
+
+##
+
+quiz question
+
+
+# Coase Theorem 
+
+
+## Coase Theorem
+
+:::::::::::::: {.columns}
+::: {.column}
+_Private bargaining will result in the efficient resolution of negative externalities, without the need for government intervention, as long as property rights are fully allocated_
+:::
+::: {.column}
+![](img/coase.jpeg)
+:::
+::::::::::::::
+
+## Coase Theorem 
+
+:::::::::::::: {.columns}
+::: {.column}
+**Works when _transaction costs_ are low** 
+
+* **Transaction costs**: The costs associated with a transaction 
+  * Monitoring and enforcement 
+:::
+::: {.column}
+![](img/coase2.jpeg)
+:::
+::::::::::::::
+
+## Coase Theorem 
+
+**Property rights**: Rights of individuals to own or control property including the right to use, transfer, or _exclude_ 
+
+:::::::::::::: {.columns}
+::: {.column}
+**Non-excludable** 
+
+* Common-pool goods 
+* Public goods
+:::
+::: {.column}
+![](img/goods.jpg)
+:::
+::::::::::::::
+
+
+## Coase Theorem 
+
+### What can we take from Coase?
+
+::: {.incremental}
+* Importance of _property rights_ and _transaction costs_ 
+
+* Self-organization among users can address common-pool resource problems (see _Elinor Ostrom's work_)
+
+* Markets don't _fail_, rather markets are _missing_
+  * Government policy should address property rights and lessen transaction costs
+:::
+
+
+# Market-Based Environmental Policy 
+
+
+## Market-Based Environmental Policy
+
+**Using markets**: Getting the prices right
+
+:::::::::::::: {.columns}
+::: {.column}
+**Externality** 
+
+Social cost $>$ Private cost
+
+Socially efficient outcome = Private cost + **Tax** 
+
+**Internalize the externality**
+:::
+::: {.column}
+![](img/external.jpg)
+:::
+::::::::::::::
+
+
+
+## Market-Based Environmental Policy 
+
+**Creating Markets**: Creating property rights
+
+:::::::::::::: {.columns}
+::: {.column}
+**Common-pool good = no property rights**
+
+* Distribute allowances 
+  * _Fishing quota_
+  * _Cap-and-trade systems for pollution_
+
+**Allowances create de-facto property rights**
+:::
+::: {.column}
+![](img/cap-trade.jpg)
+:::
+::::::::::::::
+
+
+
+## Market-Based Environmental Policy 
+
+**Using and Creating markets**: Filling in the missing demand curve
+
+:::::::::::::: {.columns}
+::: {.column}
+**Marginal benefit of abatement = Demand curve** 
+
+* Public good = no demand 
+:::
+::: {.column}
+![](img/ta.png)
+:::
+::::::::::::::
+
+::: {.notes}
+the central problem, of course, is that such a demand curve never arises, because pollution control is a classic case of a public good. every individual, comparing the cost of paying for pollution control (borne entirely by herself ) with the benefit (shared by others), finds that it is in her self-interest not to contribute. But when everyone free rides, the market demand for pollution control effectively falls to zero.11 note that the “supply curve” for abatement already exists; it simply corresponds to the marginal cost of controlling pollution.the hitch is that no firm will supply a good whose price is zero.
+:::
+
+## Market-Based Environmental Policy 
+
+**Using and Creating markets**: Filling in the missing demand curve
+
+:::::::::::::: {.columns}
+::: {.column}
+**Policy sets the demand curve** 
+
+* Fixed quantity (X*)
+  * Cap-and-trade 
+
+* Fixed price (T*)
+  * Tax 
+
+**$/Ton is the same**
+:::
+::: {.column}
+![](img/ta2.png)
+:::
+::::::::::::::
+
+
+# Have a great spring break!!!! 
