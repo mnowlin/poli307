@@ -1,0 +1,455 @@
+---
+title: "Federalism and Environmental Regulations"
+subtitle: "POLI 307: Environmental Policy"
+date: "Spring 2023"
+bibliography: /Users/nowlinmc/Dropbox/refs.bib
+csl: /Users/nowlinmc/Dropbox/Projects/Manuscript-Files/csl/american-political-science-association.csl
+format:
+  pptx:
+    reference-doc: template.pptx
+    slide-level: 2
+---
+
+# Federalism 
+
+## Federalism 
+
+### _A system of constitutionally derived and apportioned authority where state and national government retain sovereignty yet at the same time are interdependent_ 
+
+### Constitutional division of powers between the national and the state governments
+
+
+## Federalism
+
+::: {.incremental}
+* **Preemption**
+  * _Higher level government restricts authority of lower level government_  
+
+* **The Tenth Amendment** 
+  * _The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people_ 
+
+* **National supremacy clause**
+  * Article VI, Section 2
+  * National laws take _preeminence_ over state laws
+:::
+
+## 
+
+quiz q
+
+## Federalism 
+
+:::::::::::::: {.columns}
+::: {.column}
+**Types of federalism** 
+
+* Dual federalism 
+* Cooperative federalism 
+* _Compensatory federalism_
+:::
+::: {.column}
+![](img/fed-cake.png)
+:::
+::::::::::::::
+
+::: {.notes}
+**With cooperative federalism the federal government delegates authority to the states**
+:::
+
+
+## Federalism Eras 
+
+::: {.incremental}
+* **The Common Law and Conservation Era: Pre-1945** 
+  * States and the federal government had a shared interest in development 
+  * Shift to conservation in the late 1800s 
+
+* **Dual federalism**: States and the federal government had distinct spheres of power over separate policy areas 
+:::
+
+
+## Federalism Eras 
+
+::: {.incremental}
+* **Federal Assistance for State Environmental Problems: 1945–1962** 
+  * Federal government promoted environmental protection by providing research and financial assistance to states and localities
+  * Rising concern over pollution crossing state lines 
+
+* **Slow shift from _dual_ to _cooperative_ federalism** 
+:::
+
+## Federalism Eras 
+
+::: {.incremental}
+
+* **The Rise of the Modern Environmental Movement: 1962–1970** 
+  * Focus on federal agencies
+
+* **Erecting the Federal Regulatory Infrastructure: 1970–1980** 
+  * Large number of federal environmental laws 
+
+* **Cooperative federalism**: Federal laws with delegated implementation and enforcement authority to states
+
+:::
+ 
+## Federalism Eras 
+
+::: {.incremental}
+* **Extending and Refining Federal Regulatory Strategies: 1980–1990** 
+  * Slow and uneven process of shifting more authority to states 
+
+* **Regulatory Recoil and Limits on Federal Power: 1991-Present** 
+  * Reduction in regulatory burdens on states 
+:::
+
+## Federalism and Climate Change 
+
+**Compensatory federalism**: One level of government _compensates_ for another level 
+
+:::::::::::::: {.columns}
+::: {.column}
+**States and Climate Policy**
+
+* Renewable Portfolio Standards
+* Climate Action Plans 
+* GHG Emission Targets 
+* Carbon Pricing 
+:::
+::: {.column}
+![](img/figure7.2.jpg)
+:::
+::::::::::::::
+
+## 
+
+quiz q 
+
+
+# Environmental Policy Instruments
+
+## Instruments 
+
+### The Stages Model
+
+:::::::::::::: {.columns}
+::: {.column}
+1. Problem identification and definition
+2. Agenda setting
+3. **Policy formulation** 
+4. Policy legitimation
+5. Policy implementation
+6. Policy evaluation
+:::
+::: {.column}
+![](img/cycle.jpg)
+:::
+::::::::::::::
+
+## The Stages Model 
+
+### 3. Policy Formulation
+
+* What should be done about a problem? 
+* Involves technical analysis and politics 
+
+* **Policy design**: The content of the policy
+  * Policy goals 
+  * **Policy instruments**
+  * Implementation structure  
+
+## Environmental Policy Instruments 
+
+### The means of achieving policy goals
+
+::: {.incremental}
+* _How can we reduce greenhouse gas emissions_? 
+
+:::
+
+## Environmental Policy Instruments
+
+:::::::::::::: {.columns}
+::: {.column}
+**Four categories**
+
+* Using markets  
+* Creating markets 
+* Using environmental regulations  
+* Engaging the public
+:::
+::: {.column}
+**Carrots, sticks, (and sermons)**
+
+* Delegated
+* Voluntary ("carrots")
+* Mandated ("sticks")
+:::
+::::::::::::::
+
+
+## Environmental Policy Instruments 
+
+**Sticks** (_Using environmental regulations_)  
+
+::: {.incremental}
+* **Command-and-Control**: 
+  * _Command_: Top-down standards (performance or technology) 
+  * _Control_: Substantive and procedural requirements, tight timetables, inspections, controls, penalties for noncompliance, and litigation 
+
+* **Oversight**: 
+  * Higher level government monitors lower level government 
+:::
+
+
+## Environmental Policy Instruments 
+
+**Sticks** (_Using environmental regulations_)  
+
+::: {.incremental}
+* **Technology Based**: 
+  * Require a particular technology be used
+
+* **Permits and Inspections** 
+  * _Permit_: limit on volume and type of pollution that can be discharged 
+  * _Inspections_: ensure compliance 
+:::
+
+
+## Environmental Policy Instruments 
+
+**Sticks** (_Using environmental regulations_)  
+
+::: {.incremental}
+* **Enforcement** 
+  * Occurs at both the federal and state level 
+
+* **Unfunded Mandates** 
+  * Requirements from the federal government without monetary assistance 
+  * _Unfunded Mandates Reform Act of 1995_ 
+:::
+
+## 
+
+quiz q
+
+## Environmental Policy Instruments 
+
+**Carrots** 
+
+::: {.incremental}
+* **Voluntary Compliance** 
+  * Firms and other organizations have clear expectations and the incentives and resources
+  * Bottom-up: firms may impose requirements on themselves to avoid government regulation 
+  * _Greenwashing_: firms appear more environmentally friendly than they actually are 
+:::
+
+
+
+## Environmental Policy Instruments 
+
+**Carrots** 
+
+::: {.incremental}
+* **Public Education** (_Engaging the public_; _Sermons_)
+  * Provide information 
+  * _Moral leadership_ 
+  
+* **Preventive Efforts** 
+  * Produce reduction targets  
+
+* **Technical Assistance** 
+  * Grants and expertise 
+:::
+
+
+## Environmental Policy Instruments 
+
+**Carrots**
+
+::: {.incremental}
+* **Privatization** 
+  * Contract out; waste disposal 
+
+* **Partnerships** 
+  * Federal-state; public-private 
+:::
+
+
+# Environmental Regulations
+
+## Environmental Regulations 
+
+### The Stages Model
+
+:::::::::::::: {.columns}
+::: {.column}
+1. Problem identification and definition
+2. Agenda setting
+3. Policy formulation
+4. Policy legitimation
+5. **Policy implementation**
+6. Policy evaluation
+:::
+::: {.column}
+![](img/cycle.jpg)
+:::
+::::::::::::::
+
+## Environmental Regulations 
+
+**5. Policy Implementation: Process by which policies enacted by government are put into effect by the relevant agencies** 
+
+* Implementation often involves **delegation** 
+ * Agencies must define "_swimmable_" waters 
+
+* Implementation often involves **policy creation**
+  * EPA makes a regulation under the authority of the Clean Air Act 
+
+
+## Environmental Regulations  
+
+### Command-and-Control
+
+::: {.incremental}
+* Set _performance_ or _technology_ standards
+
+* They tend to work 
+  * Clean Air Act
+  * Clean Water Act 
+
+* Benefits $>$ Costs
+
+:::
+
+
+## 
+
+quiz q 
+
+## Environmental Regulations 
+
+![](img/reg-goals.png)
+
+## Environmental Regulations 
+
+::: {.incremental}
+**Goal Setting** 
+
+* Congress often sets broad goals that a law is designed to achieve
+  * CWA: "swimmable" and "fishable" waters
+
+* Weighed against other social and economic considerations 
+:::
+
+
+## Environmental Regulations 
+
+::: {.incremental}
+**Criteria determination** 
+
+* What is "clear air?" What is "clean water?" 
+
+* Requires extensive data collection and analysis
+
+* **In the CAA and CWA public health was the only consideration** 
+:::
+
+
+## Environmental Regulations 
+
+::: {.incremental}
+**Standard setting** 
+
+* Reflects the standards that are needed for "clean air" and/or "clean water" 
+
+* Determinations about the level of pollution that is acceptable for public and environmental health
+
+* Performance or technology 
+:::
+
+## Environmental Regulations 
+
+::: {.incremental}
+**Enforcement of standards** 
+
+* Facilities are monitored and inspected 
+
+* Reporting requirements 
+:::
+
+
+
+## Environmental Regulations 
+
+### Assumptions of command-and-control regulations
+
+::: {.incremental}
+* **Top-down**: Other stakeholders involved, but regulations come from government agencies 
+
+* **Government knows best**: Has the information and expertise to make regulations 
+
+* **One-size-fits-all**: Regulations are applied uniformly 
+
+* **Deterrence strategy**: Facilities must comply or face consequences and absent regulation, facilities would pollute 
+
+* **Little incentive to improve**: Facilities will meet the requirement, but not do any more to reduce pollution 
+
+:::
+
+
+## Environmental Regulations 
+
+### Command-and-control (federalism) in action
+
+::: {.incremental}
+* **Regulatory structure**: Rulemaking process occurs at the federal level, with implementation and enforcement delegated to the states 
+
+* _States collectively issue more than 90 percent of all environmental permits, complete more than 75 percent of all environmental enforcement actions, and rely on the federal government for less than 25 percent of their total funding on environmental and natural resource concerns_ 
+
+:::
+
+
+## Environmental Regulations 
+
+### Challenges of implementing command-and-control regulations
+
+::: {.incremental}
+* **Politics and competing priorities**  
+  * Environmental policy is both highly technical and highly political
+  * Agencies are responsive to political control 
+
+* **Federalism** 
+  * Adds complexity and coordination problems 
+:::
+
+
+## Environmental Regulations 
+
+### Challenges of implementing command-and-control regulations
+
+::: {.incremental}
+* **Resource constraints** 
+  * Agency capacity: budgets and personnel 
+  * Knowledge 
+
+* **Administrative structures and discretion**  
+  * Internal factors 
+  * Organizational friction 
+:::
+
+
+## Environmental Regulations 
+
+**Regulatory capture** 
+
+::: {.incremental}
+* _Occurs when regulators become beholden to those they attempt to regulate_ 
+  * Revolving door 
+  * Information asymmetries: companies may know more about their products than the regulators
+  * Influence of interest groups 
+:::
+
+
+
+
+
